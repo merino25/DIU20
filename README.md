@@ -1,11 +1,11 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_03MerinoLuaces.  Curso: 2019/20 
+Grupo: DIU1_03UltraMerino.  Curso: 2019/20 
 
 Proyecto: Experiencias de Compartir Ocio 
 
-Descripción: 
+Descripción: Proyecto sobre experienis
 
 Logotipo: 
 
