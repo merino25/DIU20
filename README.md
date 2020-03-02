@@ -30,7 +30,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> El tema general de las aplicaciones asignadas es el de compartir experiencias de ocio, es decir, todas aquellas plataformas cuyo objetivo es organizar eventos y que los usuarios se apunten a los que ellos deseen. 
+Más concretamente, hemos elegido la plataforma Artery.is ya que es la que más nos ha llamado la atención su diseño.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
