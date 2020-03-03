@@ -37,6 +37,8 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 -----
 
 >>> Hemos elegido una persona algo alejada de la tecnología y otra con los conocimientos estándar para aportar distintos puntos de vista.
+![Aurelio](img/aurelio.png)
+![Ines](img/ines.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
