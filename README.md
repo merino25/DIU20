@@ -36,7 +36,7 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos elegido una persona algo alejada de la tecnología y otra con los conocimientos estándar para aportar distintos puntos de vista.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
