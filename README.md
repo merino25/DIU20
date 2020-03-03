@@ -37,14 +37,16 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 -----
 
 >>> Hemos elegido una persona algo alejada de la tecnología y otra con los conocimientos estándar para aportar distintos puntos de vista.
-![Aurelio](img/aurelio.PNG)
-![Ines](img/ines.PNG)
+![Personaje Aurelio](img/aurelio.PNG "Aurelio")
+![Personaje Ines](img/ines.PNG "Ines")
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo.
+![Mapa Aurelio](img/aurelio.PNG "Mapa de Aurelio")
+![Mapa Ines](img/ines.PNG "Mapa de Ines")
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
