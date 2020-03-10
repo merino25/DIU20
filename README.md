@@ -31,7 +31,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> El tema general de las aplicaciones asignadas es el de compartir experiencias de ocio, es decir, todas aquellas plataformas cuyo objetivo es organizar eventos y que los usuarios se apunten a los que ellos deseen. 
-Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) ya que es la que más nos ha llamado la atención
+Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) ya que es la que más nos ha llamado la atención.
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
