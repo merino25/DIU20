@@ -42,7 +42,7 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 ----
 
 
->>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo. Respectivamente, [Mapa de Aurelio](P1/journey_aurelio.PNG) y [Mapa Ines](P1/journey_ines.PNG) .
+>>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo. Respectivamente, [Mapa de Aurelio](P1/journey_aurelio.png) y [Mapa Ines](P1/journey_ines.png) .
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
