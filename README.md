@@ -31,30 +31,25 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> El tema general de las aplicaciones asignadas es el de compartir experiencias de ocio, es decir, todas aquellas plataformas cuyo objetivo es organizar eventos y que los usuarios se apunten a los que ellos deseen. 
-Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) ya que es la que más nos ha llamado la atención su diseño.
-que tiene arteris que no tengan las demas algo q lo diferencie o justificado que propongamos arteris frente a las otras
+Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) ya que es la que más nos ha llamado la atención
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos elegido una persona algo alejada de la tecnología y otra con los conocimientos estándar para aportar distintos puntos de vista.
-![Personaje Aurelio](img/aurelio.PNG "Aurelio")
-![Personaje Ines](img/ines.PNG "Ines")
+>>> Como personas, hemos elegido a [Aurelio](P1/Aurelio.PNG) que es una persona campesina alejada de la tecnología, y a [Ines](P1/Ines.PNG), otra persona con un uso más estándar de la tecnología.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo.
-![Mapa Aurelio](img/mapa_aurelio.PNG "Mapa de Aurelio")
-![Mapa Ines](img/mapa_ines.PNG "Mapa de Ines")
+>>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo. Respectivamente, [Mapa de Aurelio](P1/mapa_aurelio.PNG) y [Mapa Ines](P1/mapa_ines.PNG) .
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: [Usability Review](P1/usability.pdf)
+>>> - Valoración final (numérica): 61
+>>> - Comentario sobre la valoración: -Comentario-
 
 
 ## Paso 2. UX Design  
