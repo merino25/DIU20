@@ -36,7 +36,7 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Como personas, hemos elegido a [Aurelio](P1/persona_aurelio.png) que es una persona campesina alejada de la tecnología, y a [Ines](P1/persona_ines.PNG), otra persona con un uso más estándar de la tecnología.
+>>> Como personas, hemos elegido a [Aurelio](P1/persona_aurelio.png) que es una persona campesina alejada de la tecnología, y a [Ines](P1/persona_ines.png), otra persona con un uso más estándar de la tecnología.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
