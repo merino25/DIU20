@@ -36,19 +36,19 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Como personas, hemos elegido a [Aurelio](P1/Aurelio.PNG) que es una persona campesina alejada de la tecnología, y a [Ines](P1/Ines.PNG), otra persona con un uso más estándar de la tecnología.
+>>> Como personas, hemos elegido a [Aurelio](P1/persona_aurelio.png) que es una persona campesina alejada de la tecnología, y a [Ines](P1/persona_ines.PNG), otra persona con un uso más estándar de la tecnología.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo. Respectivamente, [Mapa de Aurelio](P1/mapa_aurelio.PNG) y [Mapa Ines](P1/mapa_ines.PNG) .
+>>> Elegimos las experiencias de usuario que consideramos probables que le sucedan a los personajes creados, los cuales el primero es menos habitual que el segundo. Respectivamente, [Mapa de Aurelio](P1/journey_aurelio.PNG) y [Mapa Ines](P1/journey_ines.PNG) .
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: [Usability Review](P1/Usability-review-template.pdf)
+>>> - Enlace al documento: [Usability Review PDF](P1/Usability-review-template.pdf) [Usability Review XLS](P1/Usability-review-template.xls)
 >>> - Valoración final (numérica): 61
 >>> - Comentario sobre la valoración: -Comentario-
 
