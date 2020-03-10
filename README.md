@@ -48,7 +48,7 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: [Usability Review](P1/usability.pdf)
+>>> - Enlace al documento: [Usability Review](P1/Usability-review-template.pdf)
 >>> - Valoración final (numérica): 61
 >>> - Comentario sobre la valoración: -Comentario-
 
