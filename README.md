@@ -50,7 +50,8 @@ Más concretamente, hemos elegido la plataforma [Artery](https://www.Artery.is) 
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento: [Usability Review PDF](P1/Usability-review-template.pdf) [Usability Review XLS](P1/Usability-review-template.xls)
 >>> - Valoración final (numérica): 61
->>> - Comentario sobre la valoración: -Comentario-
+>>> - Comentario sobre la valoración:
+Hemos elegido Artery frente otros sitios web de la competencia principalmente por su diseño llamativo. Se han descartado sitios que promueven una sola clase de ocio (como Eatwith, que lo hace solo con eventos culinarios) ya que buscábamos un sitio más amplio, en el que haya eventos de cualquier tipo, tales como culinarios, musicales, audiovisuales, etc.
 
 
 ## Paso 2. UX Design  
