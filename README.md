@@ -65,7 +65,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definimos las tareas de traducir, usar map y publicar imagenes; y los grupos de personas que saben inglés, gente del mundo rural y adolescentes.
+>>> Definimos las tareas de traducción, usar mapas y publicar imagenes nuevas, los grupos de usuarios que saben inglés, gente del mundo rural y adolescentes.
   
 
 ![Método UX](img/labelling.png) 2.c Labelling 
