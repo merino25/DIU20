@@ -127,7 +127,9 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![boceto1](img/boceto1.jpg)
 
+![boceto2](img/boceto2.jpg)
 
 ## Paso 3. Make (Prototyping) 
 
