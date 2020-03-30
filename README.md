@@ -89,8 +89,18 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
+  Inicio  | Página principal (portada)
+  Menú    | Se desglosa en varias funcionalidades
+  Traducir  |
+  Iniciar Sesión   | Conectarte para ver tus datos en tu perfil
+  Sobre nosotros  | Detalles sobre los creadores
+  Búsqueda  | Por palabra, etiquetas, sitio, …
+  Eventos  | Un evento concreto
+  Administrar  | Crear, editar, eliminar un evento
+  Detalles  | Ver detalladamente un evento
+  Reservar  | Pagar para un evento de otra persona
+  Ayuda  | Dudas y pasos a seguir empleando microayudas y ejemplos de uso
+
 
 
 
