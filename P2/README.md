@@ -35,3 +35,23 @@ Wireframe & User flow
   **Grupo 2:** Gente del mundo rural
   
   **Grupo 3:** Adolescentes
+  
+  
+3. Jerarquía
+
+!Jerarquia(img/jerarquia.jpg)
+
+**Término** | **Significado**     
+| ------------- | -------
+  Inicio  | Página principal (portada)
+  Menú    | Se desglosa en varias funcionalidades
+  Traducir  |
+  Iniciar Sesión   | Conectarte para ver tus datos en tu perfil
+  Sobre nosotros  | Detalles sobre los creadores
+  Búsqueda  | Por palabra, etiquetas, sitio, …
+  Eventos  | Un evento concreto
+  Administrar  | Crear, editar, eliminar un evento
+  Detalles  | Ver detalladamente un evento
+  Reservar  | Pagar para un evento de otra persona
+  Ayuda  | Dudas y pasos a seguir empleando un asistente y ejemplos de uso
+
