@@ -65,19 +65,9 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+>>> Definimos las tareas de traducir, usar map y publicar imagenes; y los grupos de personas que saben ingles, gente del mundo rural y adolescentes.
   
-  **Task**                    | **Grupo1**  | **Grupo2** | **Grupo3**
-  ------                  | ------  | ------ | ------:
-  **Traducir al Español** | Low     | High   | Medium
-  **Usar Maps**           | Medium  | Low    | High
-  **Publicar imágenes**   | Medium  | Medium | High
 
-  **Grupo 1:** Gente que accede y sabe Inglés
-  
-  **Grupo 2:** Gente del mundo rural
-  
-  **Grupo 3:** Adolescentes
   
 
 
