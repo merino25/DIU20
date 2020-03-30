@@ -83,10 +83,10 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Definir "User Map" y "Task Flow" ...
+
 Task | **Grupo1** | **Grupo2** | **Grupo3** | **Grupo4**
- 
-| -------------         | ------- | ------- | -------
+| ------------- | ------- | ------- | -------
 
 **Traducir al Español** | Low     | High    | Medium
 
