@@ -85,11 +85,15 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 >>> Definir "User Map" y "Task Flow" ...
   
-  Task                    | Grupo1  | Grupo2 | Grupo3
+  **Task**                    | **Grupo1**  | **Grupo2** | **Grupo3**
   ------                  | ------  | ------ | ------:
   **Traducir al Español** | Low     | High   | Medium
   **Usar Maps**           | Medium  | Low    | High
   **Publicar imágenes**   | Medium  | Medium | High
+
+  **Grupo 1:** Gente que accede y sabe Inglés
+  **Grupo 2:** Gente del mundo rural
+  **Grupo 3:** Adolescentes
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
