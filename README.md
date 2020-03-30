@@ -90,6 +90,8 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
