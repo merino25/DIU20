@@ -72,7 +72,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
   **Preguntas** | **Nuevas ideas**
   Traducción a varios idiomas |  Más detalles (precio, resto de personas)
   Letra pequeña |  Usar Google Maps
-  Historial de eventos | Agenda
+  Historial de eventos | Agenda para administrar eventos futuros
 
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
