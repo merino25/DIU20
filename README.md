@@ -71,8 +71,8 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
   Forma de pago Segura |  Mapa no interactivo
   Dinámica e intuitiva |  Falta listas de amigos
 
-  **Preguntas**                             | **Nuevas ideas**
-  | ------------- | -------
+  **Preguntas**                           | **Nuevas ideas**
+| -------------                           | -------
 
   Traducción a varios idiomas               |  Más detalles (precio, resto de personas)
   Letra pequeña                             |  Usar Google Maps
