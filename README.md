@@ -63,6 +63,8 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
  - | **Grupo1** | **Grupo2** | **Grupo3** | **Grupo4**
+ | ------------- | -------
+
 **Traducir al Español** | Low | High | Medium
 **Usar Maps** | Medium | Low | High
 **Publicar imágenes** | Medium | Medium | High
