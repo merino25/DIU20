@@ -54,4 +54,12 @@ Wireframe & User flow
   Detalles  | Ver detalladamente un evento
   Reservar  | Pagar para un evento de otra persona
   Ayuda  | Dudas y pasos a seguir empleando un asistente y ejemplos de uso
+  
+  
+4. Bocetos
+
+![Pantalla princiap](img/boceto1.jpg)
+
+![Evento](img/boceto2.jpg)
+
 
