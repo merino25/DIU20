@@ -60,29 +60,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
-
- **Interesante (Ideas Positivas)** | **Críticas**
-| ------------- | -------
-  Buen diseño |  Etiquetas mal implementadas
-  Diseño atractivo   |  Buscador demasiado simple
-  Forma de pago Segura |  Mapa no interactivo
-  Dinámica e intuitiva |  Falta listas de amigos
-
-  **Preguntas** | **Nuevas ideas**
-| ------------- | -------
-  Traducción a varios idiomas |  Más detalles (precio, resto de personas)
-  Letra pequeña                             |  Usar Google Maps
-  Historial de eventos pasados              |  Agenda para administrar eventos futuros
-  Sistema de puntos para futuros descuentos |  Formulario de contacto para asistentes al evento
-
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Nuestra malla receptora habla sobre ....
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
