@@ -60,7 +60,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>> Nuestra malla receptora habla sobre ....
+>>> Nuestra malla receptora habla sobre las principales ideas que transmite Artery.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
