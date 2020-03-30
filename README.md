@@ -64,12 +64,12 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- **Interesante (Ideas Positivas)** | **Críticas**
+ -**Interesante (Ideas Positivas)** | -**Críticas**
 | ------------- | -------
   Buen diseño |  Etiquetas mal implementadas
   Intuitiva   |  Buscador demasiado simple
   Forma de pago Segura |  Mapa no interactivo
-  **Preguntas** | **Nuevas ideas**
+  -**Preguntas** | -**Nuevas ideas**
   Traducción a varios idiomas |  Más detalles (precio, resto de personas)
   Letra pequeña |  Usar Google Maps
   Historial de eventos | Agenda
