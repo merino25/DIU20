@@ -65,19 +65,14 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 
  **Interesante (Ideas Positivas)** | **Críticas**
- | ------------- | -------
-
+| ------------- | -------
   Buen diseño |  Etiquetas mal implementadas
   Intuitiva   |  Buscador demasiado simple
- Forma de pago Segura |  Mapa no interactivo
-| ------------- | -------
+  Forma de pago Segura |  Mapa no interactivo
   **Preguntas** | **Nuevas ideas**
-  | ------------- | -------
-
-   Traducción a varios idiomas |  Más detalles (precio, resto de personas)
-   Letra pequeña |  Usar Google Maps
-   Historial de eventos | Agenda
-  | ------------- | -------
+  Traducción a varios idiomas |  Más detalles (precio, resto de personas)
+  Letra pequeña |  Usar Google Maps
+  Historial de eventos | Agenda
 
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
