@@ -58,8 +58,8 @@ Wireframe & User flow
   
 4. Bocetos
 
-![Pantalla princiapl](../img/boceto1.jpg)
+![Pantalla princiapl](../img/boceto1.jpg =250x250)
 
-![Evento](../img/boceto2.jpg)
+![Evento](../img/boceto2.jpg =250x250)
 
 
