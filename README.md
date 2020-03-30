@@ -96,8 +96,11 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
   **Publicar imágenes**   | Medium  | Medium | High
 
   **Grupo 1:** Gente que accede y sabe Inglés
+  
   **Grupo 2:** Gente del mundo rural
+  
   **Grupo 3:** Adolescentes
+  
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
