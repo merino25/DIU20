@@ -39,7 +39,7 @@ Wireframe & User flow
   
 3. Jerarquía
 
-!Jerarquia(img/jerarquia.jpg)
+![Jerarquia](img/jerarquia.jpg)
 
 **Término** | **Significado**     
 | ------------- | -------
