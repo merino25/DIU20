@@ -30,7 +30,7 @@ Wireframe & User flow
   **Usar Maps**           | Medium  | Low    | High
   **Publicar imágenes**   | Medium  | Medium | High
 
-  **Grupo 1:** Gente que accede y sabe Inglés
+  **Grupo 1:** Gente que sabe Inglés
   
   **Grupo 2:** Gente del mundo rural
   
