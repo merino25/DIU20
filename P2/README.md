@@ -9,18 +9,22 @@ Wireframe & User flow
 
 **Interesante (Ideas Positivas)** | **Críticas**
 | ------------- | -------
-  Buen diseño |  Etiquetas mal implementadas
-  Diseño atractivo   |  Buscador demasiado simple
-  Forma de pago Segura |  Mapa no interactivo
-  Dinámica e intuitiva |  Falta listas de amigos
-
+  eeee         |  Hay etiquetas pero no hya un sistema de tagging o etiquetado.
+  eee     |  Buscador demasiado simple.
+  Forma de pago Segura |  No hay Mapa con el que interactuar, simplemente tiene una imagen.
+  Dinámica e intuitiva |  No se pueden realizar eventos privados, solo públicos.
+      eee              | No tiene traducción a otros idiomas
+   eeeeee              |   Letra demasiado pequeña     
   **Preguntas** | **Nuevas ideas**
 | ------------- | -------
-  Traducción a varios idiomas |  Más detalles (precio, resto de personas)
-  Letra pequeña                             |  Usar Google Maps
-  Historial de eventos pasados              |  Agenda para administrar eventos futuros
-  Sistema de puntos para futuros descuentos |  Formulario de contacto para asistentes al evento
-  
+  Nuestra aplicación debería hacer descuentos    |  La aplicación será Multiidioma
+  Lleguen notificaciones al móvil           |  Enlazada a  Google Maps
+  Aplicación en catalán              |  La aplicación administra la agenda (añadiendo/quitando eventos)
+  En vez de un mapa que fuese un modelo en 3D o sino en realidad aumentada |  Formulario de contacto para asistentes al evento
+  Agregar a mis amigos del Whatsapp       | La aplicación permitirá mas metodos de pago, paypal, contrarrembolso y Bizum.
+  eeeee      | La aplicación permitirá modificación del perfil y buscador avanzado.
+  eeeee      | La aplicación tendrá un chat para poder conversar entre asistentes de eventos.
+
   
 2. Tareas
 
@@ -29,6 +33,13 @@ Wireframe & User flow
   **Traducir al Español** | Low     | High   | Medium
   **Usar Maps**           | Medium  | Low    | High
   **Publicar imágenes**   | Medium  | Medium | High
+  **Recordar contraseña** | Low     | High   | Medium
+  **Pagar evento** | Low     | High   | Medium
+    **Agendar un evento** | Low     | High   | Medium
+    **Usar el chat** | Low     | High   | Medium
+
+
+
 
   **Grupo 1:** Gente que sabe Inglés
   
