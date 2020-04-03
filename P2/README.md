@@ -23,11 +23,12 @@ Wireframe & User flow
   En vez de un mapa que fuese un modelo en 3D o sino en realidad aumentada |  Formulario de contacto para asistentes al evento
   Agregar a mis amigos del Whatsapp       | La aplicación permitirá mas metodos de pago, paypal, contrarrembolso y Bizum.
   eeeee      | La aplicación permitirá modificación del perfil y buscador avanzado.
-  eeeee      | La aplicación tendrá un chat para poder conversar entre asistentes de eventos.
+  eeeee      | La aplicación tendrá un chat interno para poder conversar.
 
   
 2. Tareas
-
+ //poner todas las tareas que decimos que vamos a tener.... poner todo!!!!!!!!!!!!!!!!!!!!!!!
+ //ponerlas de mayor a menor, de mas highs a menos.
   **Task**                    | **Grupo1**  | **Grupo2** | **Grupo3**
   ------                  | ------  | ------ | ------:
   **Traducir al Español** | Low     | High   | Medium
@@ -36,16 +37,22 @@ Wireframe & User flow
   **Recordar contraseña** | Low     | High   | Medium
   **Pagar evento** | Low     | High   | Medium
     **Agendar un evento** | Low     | High   | Medium
-    **Usar el chat** | Low     | High   | Medium
+    **Usar el chat interno** | Low     | High   | Medium
+       **Usar el buscador** | Low     | High   | Medium
+       **Editar Perfil** | Low     | High   | Medium
+       **Registrarte** | Low     | High   | Medium
+       **Borrar cuenta** | Low     | High   | Medium
+           **Usar el formulario de contacto** | Low     | High   | Medium
 
 
 
 
-  **Grupo 1:** Gente que sabe Inglés
+//no hacerlo por grupos de conocimiento q sea por edad... o por distincion de competencias lingüisticas o que tareas hace un usuario logeado o que tareas un visitante //el invitado puede hacer búsquedas en el mapa traducir y busquedas avanzadas
+  **Grupo 1:** Menores de 18 años
   
-  **Grupo 2:** Gente del mundo rural
+  **Grupo 2:** Personas entre 18 y 35 años.
   
-  **Grupo 3:** Adolescentes
+  **Grupo 3:** Personas entre 35 y 65 años.
   
   
 3. Jerarquía
