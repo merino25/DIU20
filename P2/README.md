@@ -9,21 +9,23 @@ Wireframe & User flow
 
 **Interesante (Ideas Positivas)** | **Críticas**
 | ------------- | -------
-  eeee         |  Hay etiquetas pero no hya un sistema de tagging o etiquetado.
-  eee     |  Buscador demasiado simple.
+  eeee         |  Hay etiquetas pero no hay un sistema de tagging o etiquetado.
+  eee     | El Buscador es demasiado simple.
   Forma de pago Segura |  No hay Mapa con el que interactuar, simplemente tiene una imagen.
-  Dinámica e intuitiva |  No se pueden realizar eventos privados, solo públicos.
+  Dinámica e intuitiva |  No se pueden realizar eventos privados, solo hay públicos.
       eee              | No tiene traducción a otros idiomas
-   eeeeee              |   Letra demasiado pequeña     
+   eeeeee              |   Letra demasiado pequeña    
+   
+   
   **Preguntas** | **Nuevas ideas**
 | ------------- | -------
-  Nuestra aplicación debería hacer descuentos |  La aplicación será Multiidioma
-  Lleguen notificaciones al móvil |  Enlazada a  Google Maps
+  Nuestra aplicación debería hacer descuentos |  La aplicación podría ser Multiidioma
+  Lleguen notificaciones personalizadas al móvil |  Enlazada a  Google Maps
   Aplicación en catalán |  La aplicación administra la agenda (añadiendo/quitando eventos)
   En vez de un mapa que fuese un modelo en 3D o sino en realidad aumentada |  Formulario de contacto para asistentes al evento
-  Agregar a mis amigos del Facebook en la aplicación     | La aplicación permitirá mas metodos de pago, paypal, contrarrembolso y Bizum.
-   Cuando se cree un evento que se cree un grupo de Whatsapp y vaya añadiendo a los nuevos asistentes al grupo automaticamente | La aplicación permitirá modificación del perfil y buscador avanzado.
-  eeeee | La aplicación tendrá un chat interno para poder conversar.
+  Agregar a mis amigos del Facebook a la aplicación  | La aplicación permitirá mas métodos de pago, paypal, contrarrembolso y Bizum.
+   Cuando se cree un evento que se cree un grupo de Whatsapp y vaya añadiendo a los nuevos asistentes al grupo automáticamente | La aplicación permitirá modificación del perfil y buscador avanzado.
+  eeeee | La aplicación podría tener un chat interno para poder conversar.
 
   
 2. Tareas
@@ -35,25 +37,29 @@ Wireframe & User flow
   **Usar Maps**           | Medium  | Low    | High
   **Publicar imágenes**   | Medium  | Medium | High
   **Recordar contraseña** | Low     | High   | Medium
-  **Pagar evento** | Low     | High   | Medium
-    **Agendar un evento** | Low     | High   | Medium
-    **Usar el chat interno** | Low     | High   | Medium
-       **Usar el buscador** | Low     | High   | Medium
-       **Editar Perfil** | Low     | High   | Medium
-       **Registrarte** | Low     | High   | Medium
-       **Borrar cuenta** | Low     | High   | Medium
-           **Usar el formulario de contacto** | Low     | High   | Medium
+  **Pagar evento**        | Low     | High   | Medium
+  **Agendar un evento** | Low     | High   | Medium
+  **Usar el chat interno** | Low     | High   | Medium
+  **Usar el buscador** | Low     | High   | Medium
+  **Editar Perfil** | Low     | High   | Medium
+  **Registrarte** | High    | High   | Medium
+  **Borrar cuenta** | Low     | High   | Medium
+  **Usar el formulario de contacto** | Low     | High   | Medium
 
 
 
 
 //no hacerlo por grupos de conocimiento q sea por edad... o por distincion de competencias lingüisticas o que tareas hace un usuario logeado o que tareas un visitante //el invitado puede hacer búsquedas en el mapa traducir y busquedas avanzadas
-  **Grupo 1:** Menores de 18 años
   
-  **Grupo 2:** Personas entre 18 y 35 años.
+  **Grupo 1:** Usuarios entre 18 y 40 años.
   
-  **Grupo 3:** Personas entre 35 y 65 años.
+  **Grupo 2:** Usuarios mayores de 40 años.
   
+  **Grupo 3:** Usuarios que han iniciado sesión.
+  
+  **Grupo 4:** Usuarios que No han iniciado sesión.
+
+
   
 3. Jerarquía
 
