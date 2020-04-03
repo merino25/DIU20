@@ -17,13 +17,13 @@ Wireframe & User flow
    eeeeee              |   Letra demasiado pequeña     
   **Preguntas** | **Nuevas ideas**
 | ------------- | -------
-  Nuestra aplicación debería hacer descuentos    |  La aplicación será Multiidioma
-  Lleguen notificaciones al móvil           |  Enlazada a  Google Maps
-  Aplicación en catalán              |  La aplicación administra la agenda (añadiendo/quitando eventos)
+  Nuestra aplicación debería hacer descuentos |  La aplicación será Multiidioma
+  Lleguen notificaciones al móvil |  Enlazada a  Google Maps
+  Aplicación en catalán |  La aplicación administra la agenda (añadiendo/quitando eventos)
   En vez de un mapa que fuese un modelo en 3D o sino en realidad aumentada |  Formulario de contacto para asistentes al evento
-  Agregar a mis amigos del Whatsapp       | La aplicación permitirá mas metodos de pago, paypal, contrarrembolso y Bizum.
-  eeeee      | La aplicación permitirá modificación del perfil y buscador avanzado.
-  eeeee      | La aplicación tendrá un chat interno para poder conversar.
+  Agregar a mis amigos del Facebook en la aplicación     | La aplicación permitirá mas metodos de pago, paypal, contrarrembolso y Bizum.
+   Cuando se cree un evento que se cree un grupo de Whatsapp y vaya añadiendo a los nuevos asistentes al grupo automaticamente | La aplicación permitirá modificación del perfil y buscador avanzado.
+  eeeee | La aplicación tendrá un chat interno para poder conversar.
 
   
 2. Tareas
