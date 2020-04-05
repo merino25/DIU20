@@ -25,7 +25,7 @@ Wireframe & User flow
   En vez de un mapa que fuese un modelo en 3D o sino en realidad aumentada |  Formulario de contacto para asistentes al evento
   Agregar a mis amigos del Facebook a la aplicación  | La aplicación permitirá mas métodos de pago, paypal, contrarrembolso y Bizum.
    Cuando se cree un evento que se cree un grupo de Whatsapp y vaya añadiendo a los nuevos asistentes al grupo automáticamente | La aplicación permitirá modificación del perfil y buscador avanzado.
-  EEEEE | La aplicación permite chatear con el anfitrion.
+  La aplicacion podría tener juegos incorporados para que los asistentes nos divirtamos antes de empezar el evento | La aplicación permite chatear con el anfitrion.
 
   
 2. Tareas
@@ -34,19 +34,33 @@ Wireframe & User flow
  
   **Task** | **Grupo1**  | **Grupo2** | **Grupo3**
   | ------------- | ------- | ------- | ------- 
-  **Traducir al Español** | Low     | High   | Medium
   **Usar Maps**           | Medium  | Low    | High
   **Publicar imágenes**   | Medium  | Medium | High
   **Recordar contraseña** | Low     | High   | Medium
   **Pagar evento**        | Low     | High   | Medium
   **Agendar un evento** | Low     | High   | Medium
-  **Usar el chat interno** | Low     | High   | Medium
   **Usar el buscador** | Low     | High   | Medium
   **Editar Perfil** | Low     | High   | Medium
-  **Registrarte** | High    | High   | Medium
-  **Borrar cuenta** | Low     | High   | Medium
+  **Registrarse** | High    | High   | Medium
   **Usar el formulario de contacto** | Low     | High   | Medium
-
+ 
+ **Iniciar Sesión** | Low     | High   | Medium
+  **Acceder al feed** | High     | High   | High
+  **Acceder a mis quedadas** | High     | High   | High
+  **Crear una quedada** | High     | High   | High
+  **Ver mis quedadas** | High     | High   | High
+  **Ajustes** | High     | High   | High
+  **Amigos** | High     | High   | High
+  **Pagar** | High     | High   | High
+  **Contactar con anfitrión** | High     | High   | High
+  **Denunciar** | High     | High   | High
+  **Pefil** | High     | High   | High
+  **Idioma** | High     | High   | High
+  **Métodos de pago** | High     | High   | High
+  **Sobre nosotros** | High     | High   | High
+  **Contactar** | High     | High   | High
+  **Eliminar cuenta** | High     | High   | High
+  **Filtrar contenido sensible** | High     | High   | High
 
 
 
@@ -75,11 +89,10 @@ Wireframe & User flow
   Sobre nosotros  | Detalles sobre los creadores
   Búsqueda  | Por palabra, etiquetas, sitio, …
   Eventos  | Un evento concreto
-  Administrar  | Crear, editar, eliminar un evento
   Detalles  | Ver detalladamente un evento
   Reservar  | Pagar para un evento de otra persona
   Ayuda  | Dudas y pasos a seguir empleando un asistente y ejemplos de uso
-  
+
   
 4. Bocetos
 
