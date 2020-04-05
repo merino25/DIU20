@@ -29,23 +29,14 @@ Wireframe & User flow
 
   
 2. Tareas
- //poner todas las tareas que decimos que vamos a tener.... poner todo!!!!!!!!!!!!!!!!!!!!!!!
- //ponerlas de mayor a menor, de mas highs a menos.
- 
+
   **Task** | **Grupo1**  | **Grupo2** | **Grupo3**
   | ------------- | ------- | ------- | ------- 
   **Usar Maps**           | Medium  | Low    | High
-  **Publicar imágenes**   | Medium  | Medium | High
-  **Recordar contraseña** | Low     | High   | Medium
-  **Pagar evento**        | Low     | High   | Medium
-  **Agendar un evento** | Low     | High   | Medium
-  **Usar el buscador** | Low     | High   | Medium
-  **Editar Perfil** | Low     | High   | Medium
-  **Registrarse** | High    | High   | Medium
-  **Usar el formulario de contacto** | Low     | High   | Medium
- 
- **Iniciar Sesión** | Low     | High   | Medium
+  **Recordar contraseña** | Low     | High   | Medium 
+  **Iniciar Sesión** | Low     | High   | Medium
   **Acceder al feed** | High     | High   | High
+  **Búsqueda**   | Medium  | Medium | High
   **Acceder a mis quedadas** | High     | High   | High
   **Crear una quedada** | High     | High   | High
   **Ver mis quedadas** | High     | High   | High
@@ -54,7 +45,7 @@ Wireframe & User flow
   **Pagar** | High     | High   | High
   **Contactar con anfitrión** | High     | High   | High
   **Denunciar** | High     | High   | High
-  **Pefil** | High     | High   | High
+  **Perfil** | High     | High   | High
   **Idioma** | High     | High   | High
   **Métodos de pago** | High     | High   | High
   **Sobre nosotros** | High     | High   | High
@@ -82,17 +73,25 @@ Wireframe & User flow
 
 **Término** | **Significado**     
 | ------------- | -------
-  Inicio  | Página principal (portada)
-  Menú    | Se desglosa en varias funcionalidades
-  Traducir  |
-  Iniciar Sesión   | Conectarte para ver tus datos en tu perfil
-  Sobre nosotros  | Detalles sobre los creadores
-  Búsqueda  | Por palabra, etiquetas, sitio, …
-  Eventos  | Un evento concreto
-  Detalles  | Ver detalladamente un evento
-  Reservar  | Pagar para un evento de otra persona
-  Ayuda  | Dudas y pasos a seguir empleando un asistente y ejemplos de uso
-
+  **Recordar contraseña** |  Recuperar contraseña.
+  **Iniciar Sesión** | Botón para iniciar sesión o crear una cuenta nueva.
+  **Acceder al feed** | Deslizarse por los eventos que se le muestran por pantalla de inicio al usuario. 
+  **Búsqueda**   | Realizar una búsqueda para buscar un evento concreto o utilizando un tag determinado
+  **Ver a mis quedadas** | Visualizar las quedadas a las que se ha unido o publicado por el usuario
+  **Crear una quedada** | Crear un nuevo evento, en caso de no haber iniciado sesión redirige a iniciar sesión automáticamente
+  **Ajustes** | Altera la configuración básica de la aplicación así como el perfil del usuario.
+  **Amigos** | Ver lista de amigos y funcionalidad de chat con los mismos.
+  **Pagar** | Unirse a una quedada, pagando automáticamente con la tarjeta que esté vinculada a la cuenta.
+  **Contactar con anfitrión** | Inicia un chat con el anfitrión.
+  **Denunciar** | Reportar un perfil por saltarse las políticas de la aplicación.
+  **Perfil** | accede al perfil del usuario.
+  **Idioma** | Cambiar el idioma actual del sistema.
+  **Métodos de pago** | Cambiar el método de pago actual del sistema.
+  **Sobre nosotros** | Accede a la información de los desarrolladores.
+  **Contactar** | contactar con los creadores para enviar sugerencias.
+  **Eliminar cuenta** | desactivar cuenta y borrar todos los datos.
+  **Filtrar contenido sensible** |  opción para filtrar eventos que estén relacionados con temas
+sensibles (politica, sexo, religión etc)
   
 4. Bocetos
 
