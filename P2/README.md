@@ -45,7 +45,7 @@ Wireframe & User flow
    **Recordar contraseña** | Low     | High   | Medium | 0
    **Ajustes** | Low     | Medium   | High | 0
    **Contactar con anfitrión** | Medium     | High   | Low | 0
-   **Filtrar contenido sensible** | 0     | Medium   | Medium | Low
+   **Filtrar contenido sensible** | Low     | Medium   | Medium | 0
    **Denunciar** | Low     | Medium   | Low | 0
    **Idioma** | Low     | Low   | Low | Low
    **Sobre nosotros** | Low     | Low   | Low | Low
