@@ -89,8 +89,7 @@ Wireframe & User flow
   **Sobre nosotros** | Accede a la información de los desarrolladores.
   **Contactar** | contactar con los creadores para enviar sugerencias.
   **Eliminar cuenta** | desactivar cuenta y borrar todos los datos.
-  **Filtrar contenido sensible** |  opción para filtrar eventos que estén relacionados con temas
-sensibles (politica, sexo, religión etc)
+  **Filtrar contenido sensible** | filtrar eventos que estén relacionados con temas sensibles (politica, sexo, religión etc)
   
 4. Bocetos
 
