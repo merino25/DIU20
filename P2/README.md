@@ -32,29 +32,26 @@ Wireframe & User flow
 
   **Task** | **Grupo1**  | **Grupo2** | **Grupo3** | **Grupo4**
   | ------------- | ------- | ------- | ------- | ------- 
-  **Usar Maps**           | Medium  | Low    | High | High
-  **Recordar contraseña** | Low     | High   | Medium | High
-  **Iniciar Sesión** | Low     | High   | Medium | High
-  **Acceder al feed** | High     | High   | High | High
-  **Búsqueda**   | Medium  | Medium | High | High
-  **Acceder a mis quedadas** | High     | High   | High | High
-  **Crear una quedada** | High     | High   | High | High
-  **Ver mis quedadas** | High     | High   | High | High
-  **Ajustes** | High     | High   | High | High
-  **Amigos** | High     | High   | High | High
-  **Pagar** | High     | High   | High | High
-  **Contactar con anfitrión** | High     | High   | High | High
-  **Denunciar** | High     | High   | High | High
-  **Perfil** | High     | High   | High | High
-  **Idioma** | High     | High   | High | High
-  **Métodos de pago** | High     | High   | High | High 
-  **Sobre nosotros** | High     | High   | High | High
-  **Contactar** | High     | High   | High | High
-  **Eliminar cuenta** | High     | High   | High | High
-  **Filtrar contenido sensible** | High     | High   | High | High
-
-
-
+   **Acceder al feed** | High     | High   | High | High
+   **Iniciar Sesión** | High     | High   | High | Medium
+   **Búsqueda**   | Medium  | High | High | High
+   **Usar Maps**           | High  | Medium    | Medium | Medium
+   **Pagar** | High     | Medium   | Medium | 0
+   **Métodos de pago** | Medium     | High   | High | 0 
+   **Acceder a mis quedadas** | High     | Medium   | Medium | 0
+   **Crear una quedada** | High     | Medium   | Medium | 0
+   **Amigos** | High     | Low   | High | 0
+   **Perfil** | High     | Low   | High | 0
+   **Recordar contraseña** | Low     | High   | Medium | 0
+   **Ajustes** | Low     | Medium   | High | 0
+   **Contactar con anfitrión** | Medium     | High   | Low | 0
+   **Filtrar contenido sensible** | 0     | Medium   | Medium | Low
+   **Denunciar** | Low     | Medium   | Low | 0
+   **Idioma** | Low     | Low   | Low | Low
+   **Sobre nosotros** | Low     | Low   | Low | Low
+   **Contactar** | Low     | Low   | Low | Low
+   **Eliminar cuenta** | Low     | Low   | Low | 0
+  
 
   **Grupo 1:** Usuarios entre 18 y 40 años.
   
@@ -68,7 +65,7 @@ Wireframe & User flow
   
 3. Jerarquía
 
-![Jerarquia](../img/jerarquia.jpg)
+![Jerarquia](../img/jerarquia2.jpg)
 
 **Término** | **Significado**     
 | ------------- | -------
