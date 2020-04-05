@@ -60,25 +60,25 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>> Nuestra malla receptora habla sobre las principales ideas que transmite Artery.
+>>> En el feedback capture grid, hemos plasmado las ideas mas sobresalientes en artery, las cuales nos gustaría incluir en nuestra aplicación, además resaltado sus desventajas para tenerlas en cuenta y así mejorar la experiencia del usuario.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definimos las tareas de traducción, usar mapas y publicar imagenes nuevas, los grupos de usuarios que saben inglés, gente del mundo rural y adolescentes.
+>>> Ordenamos las principales tareas de mayor a menor, en función de cuánto creemos que se va a usar. Creamos además cuatro grupos de usuario y notamos 0, Low, Medium o High en función de cuántas veces ese grupo de usuarios realizará dicha tarea.
   
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
 
->>> Detallamos la jerarquía usando los términos más entendibles para el  usuario.
+>>> Establecemos la jerarquía de nuestra aplicación respetando segun el nivel en el que se encuentra cada funcionalidad. 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Planteamos tres bocetos: [Pagina principal](img/boceto1.jpg) , [Un Evento](img/boceto2.jpg) y [Ajustes](img/boceto3.jpg)
+>>> Planteamos tres bocetos de la aplicación: [Pagina principal](img/boceto1.jpg) , [Un Evento](img/boceto2.jpg) y [Ajustes](img/boceto3.jpg)
 
 ## Paso 3. Make (Prototyping) 
 
