@@ -96,9 +96,9 @@ Wireframe & User flow
 
 
 
-![Feed](../img/boceto1.jpg)
+![Feed](../img/boceto1n.jpg)
 
-![Evento](../img/boceto2.jpg)
+![Evento](../img/boceto2n.jpg)
 
 ![Ajustes](../img/boceto3.jpg)
 
