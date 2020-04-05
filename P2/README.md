@@ -100,3 +100,18 @@ Boceto de la sección de ajustes
 ![Ajustes](../img/boceto3.jpg)
 
 
+5. Propuesta
+
+La propuesta de nuestro proyecto se centra en mejorar la experiencia que un usuario
+podría tener con Artery. Por ello, nos quedamos con las buenas ideas que ya tiene
+Artery (tales como ...), evitamos/mejoramos las malas (como...), y agregamos ideas nuevas nuestras,
+como tal y tal. Ordenamos las principales tareas que los usuarios realizaran, algunas como ...
+que se encuentra en las ideas mencionadas anteriormente.
+Proponemos una jerarquía que englobe las principales tareas e ideas mencionadas, enfocandola como 
+una app que se centra en la feed de quedadas publicadas, con una cabecera con el logo, barra de 
+búsqueda e iniciar sesión; y un pie con las opciones de crear quedada, ver y gestionar mis quedadas
+ya publicadas, y el botón de ajustes.
+También hacemos un pie para un evento concreto de la feed, que consta del botón de pagar y reservar, 
+otro botón de contactar anfitrión, y un botón de denunciar evento por inapropiado.
+Plasmamos esta jerarquía en los bocetos ilustrando las principales funcionalidades mencionadas en 
+la jerarquía.
