@@ -96,8 +96,10 @@ Wireframe & User flow
 
 
 
-![Pantalla princiapl](../img/boceto1.jpg)
+![Feed](../img/boceto1.jpg)
 
 ![Evento](../img/boceto2.jpg)
+
+![Ajustes](../img/boceto3.jpg)
 
 
