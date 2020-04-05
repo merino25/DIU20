@@ -30,28 +30,28 @@ Wireframe & User flow
   
 2. Tareas
 
-  **Task** | **Grupo1**  | **Grupo2** | **Grupo3**
+  **Task** | **Grupo1**  | **Grupo2** | **Grupo3** | **Grupo4**
   | ------------- | ------- | ------- | ------- 
-  **Usar Maps**           | Medium  | Low    | High
-  **Recordar contraseña** | Low     | High   | Medium 
-  **Iniciar Sesión** | Low     | High   | Medium
-  **Acceder al feed** | High     | High   | High
-  **Búsqueda**   | Medium  | Medium | High
-  **Acceder a mis quedadas** | High     | High   | High
-  **Crear una quedada** | High     | High   | High
-  **Ver mis quedadas** | High     | High   | High
-  **Ajustes** | High     | High   | High
-  **Amigos** | High     | High   | High
-  **Pagar** | High     | High   | High
-  **Contactar con anfitrión** | High     | High   | High
-  **Denunciar** | High     | High   | High
-  **Perfil** | High     | High   | High
-  **Idioma** | High     | High   | High
-  **Métodos de pago** | High     | High   | High
-  **Sobre nosotros** | High     | High   | High
-  **Contactar** | High     | High   | High
-  **Eliminar cuenta** | High     | High   | High
-  **Filtrar contenido sensible** | High     | High   | High
+  **Usar Maps**           | Medium  | Low    | High | High
+  **Recordar contraseña** | Low     | High   | Medium | High
+  **Iniciar Sesión** | Low     | High   | Medium | High
+  **Acceder al feed** | High     | High   | High | High
+  **Búsqueda**   | Medium  | Medium | High | High
+  **Acceder a mis quedadas** | High     | High   | High | High
+  **Crear una quedada** | High     | High   | High | High
+  **Ver mis quedadas** | High     | High   | High | High
+  **Ajustes** | High     | High   | High | High
+  **Amigos** | High     | High   | High | High
+  **Pagar** | High     | High   | High | High
+  **Contactar con anfitrión** | High     | High   | High | High
+  **Denunciar** | High     | High   | High | High
+  **Perfil** | High     | High   | High | High
+  **Idioma** | High     | High   | High | High
+  **Métodos de pago** | High     | High   | High | High 
+  **Sobre nosotros** | High     | High   | High | High
+  **Contactar** | High     | High   | High | High
+  **Eliminar cuenta** | High     | High   | High | High
+  **Filtrar contenido sensible** | High     | High   | High | High
 
 
 
@@ -93,13 +93,13 @@ Wireframe & User flow
   
 4. Bocetos
 
-
-
-
+Boceto de la página principal de la aplicación (el feed):
 ![Feed](../img/boceto1.jpg)
 
+Boceto de un evento concreto:
 ![Evento](../img/boceto2.jpg)
 
+Boceto de la sección de ajustes
 ![Ajustes](../img/boceto3.jpg)
 
 
