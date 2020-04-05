@@ -10,11 +10,11 @@ Wireframe & User flow
 **Interesante (Ideas Positivas)** | **Críticas**
 | ------------- | -------
   Dinámica e intuitiva |  Hay etiquetas pero no hay un sistema de tagging o etiquetado.
-  eee     | El Buscador es demasiado simple.
+  Títulos cortos ayudando a entender cada sección en un vistazo | El Buscador es demasiado simple.
   Forma de pago Segura |  No hay Mapa con el que interactuar, simplemente tiene una imagen.
-   eeee |  No se pueden realizar eventos privados, solo hay públicos.
-      eee              | No tiene traducción a otros idiomas
-   eeeeee              |   Letra demasiado pequeña    
+   Sus imágenes ayudan a captar la atencion |  No se pueden realizar eventos privados, solo hay públicos.  
+  Altamente Flexible, permite personalizar nuestro perfil y eventos a nuestro gusto | No tiene traducción a otros idiomas
+   Abierto, la pagina solo se lleva un 5% del precio de cada evento el resto se lo llevan los anfitriones del evento |   Letra demasiado pequeña    
    
    
   **Preguntas** | **Nuevas ideas**
@@ -25,7 +25,7 @@ Wireframe & User flow
   En vez de un mapa que fuese un modelo en 3D o sino en realidad aumentada |  Formulario de contacto para asistentes al evento
   Agregar a mis amigos del Facebook a la aplicación  | La aplicación permitirá mas métodos de pago, paypal, contrarrembolso y Bizum.
    Cuando se cree un evento que se cree un grupo de Whatsapp y vaya añadiendo a los nuevos asistentes al grupo automáticamente | La aplicación permitirá modificación del perfil y buscador avanzado.
-  eeeee | La aplicación permite chatear con el anfitrion.
+  EEEEE | La aplicación permite chatear con el anfitrion.
 
   
 2. Tareas
