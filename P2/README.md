@@ -55,8 +55,7 @@ Wireframe & User flow
 
 
 
-//no hacerlo por grupos de conocimiento q sea por edad... o por distincion de competencias lingüisticas o que tareas hace un usuario logeado o que tareas un visitante //el invitado puede hacer búsquedas en el mapa traducir y busquedas avanzadas
-  
+
   **Grupo 1:** Usuarios entre 18 y 40 años.
   
   **Grupo 2:** Usuarios mayores de 40 años.
