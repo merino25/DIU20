@@ -36,7 +36,6 @@ Wireframe & User flow
   | ------------- | ------- | ------- | ------- 
   **Traducir al Español** | Low     | High   | Medium
   **Usar Maps**           | Medium  | Low    | High
-  
   **Publicar imágenes**   | Medium  | Medium | High
   **Recordar contraseña** | Low     | High   | Medium
   **Pagar evento**        | Low     | High   | Medium
