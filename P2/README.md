@@ -35,10 +35,8 @@ Wireframe & User flow
   **Task** | **Grupo1**  | **Grupo2** | **Grupo3**
   | ------------- | ------- | ------- | ------- 
   **Traducir al Español** | Low     | High   | Medium
-  
-  
-  
   **Usar Maps**           | Medium  | Low    | High
+  
   **Publicar imágenes**   | Medium  | Medium | High
   **Recordar contraseña** | Low     | High   | Medium
   **Pagar evento**        | Low     | High   | Medium
