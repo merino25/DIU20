@@ -78,7 +78,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Planteamos tres bocetos: [Pagina principal](../img/boceto1.jpg) , [Un Evento](../img/boceto2.jpg) y [Ajustes](../img/boceto3.jpg)
+>>> Planteamos tres bocetos: [Pagina principal](img/boceto1.jpg) , [Un Evento](img/boceto2.jpg) y [Ajustes](img/boceto3.jpg)
 
 ## Paso 3. Make (Prototyping) 
 
