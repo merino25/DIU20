@@ -31,9 +31,13 @@ Wireframe & User flow
 2. Tareas
  //poner todas las tareas que decimos que vamos a tener.... poner todo!!!!!!!!!!!!!!!!!!!!!!!
  //ponerlas de mayor a menor, de mas highs a menos.
-  **Task**                    | **Grupo1**  | **Grupo2** | **Grupo3**
-| ------------- | ------- | ------- | ------- 
+ 
+  **Task** | **Grupo1**  | **Grupo2** | **Grupo3**
+  | ------------- | ------- | ------- | ------- 
   **Traducir al Español** | Low     | High   | Medium
+  
+  
+  
   **Usar Maps**           | Medium  | Low    | High
   **Publicar imágenes**   | Medium  | Medium | High
   **Recordar contraseña** | Low     | High   | Medium
