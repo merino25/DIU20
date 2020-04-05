@@ -31,7 +31,7 @@ Wireframe & User flow
 2. Tareas
 
   **Task** | **Grupo1**  | **Grupo2** | **Grupo3** | **Grupo4**
-  | ------------- | ------- | ------- | ------- 
+  | ------------- | ------- | ------- | ------- | ------- 
   **Usar Maps**           | Medium  | Low    | High | High
   **Recordar contraseña** | Low     | High   | Medium | High
   **Iniciar Sesión** | Low     | High   | Medium | High
