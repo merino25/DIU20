@@ -95,7 +95,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ----
 
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Como logotipo proponemos ![Logo](img/ultramerinologo1.png) que mezcla varias culturas al igual que nuestra aplicación invitando a la gente a compartir sus culturas.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
