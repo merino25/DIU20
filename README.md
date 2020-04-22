@@ -8,7 +8,7 @@ Proyecto: Experiencias de Compartir Ocio
 Descripción: Proyecto sobre experienis
 
 Logotipo: 
-![Logo](img/logoultramerino.png)
+![Logo](img/ultramerinologo1.png)
 
 
 Miembros
