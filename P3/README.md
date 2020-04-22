@@ -22,7 +22,9 @@
 **9) Escenarios de usuarios:** una vez realizada la investigación sobre los usuarios, y ya sabiendo a quién va a ir dirigida la aplicación, vemos las situaciones en las que se podría encontrar frecuentemente nuestro usuario. Es útil para ver todo tipo de problemas que pretendemos solventar.
 
 **10) Planteamiento del problema:** Detallamos el problema general que queremos resolver y nos planteamos cómo abordarlo.
+
 **11) Declaración de hipótesis:** suponemos que el éxito del proyecto, conlleva a la solución del problema general establecido en el punto anterior. Técnica que parece poco útil.
+
 **12) Estudio de diseño:** Realización en equipo de distintos bocetos y prototipos mientras avanza el desarrollo del proyecto. Muy útil y relevante para que todos los integrantes conozcan todos los detalles del avance del proyecto.
 
 
@@ -31,13 +33,18 @@
 
 Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ elegimos decisiones de diseño.
 
-Subtitulos de imagen: créditos fotográficos adecuados o la información de identificación sobre el tema de la imagen breve. útil para conocer mas sobre imagenes de eventos de otras culturas para propoprcionar mas informacion
-Barras de búsqueda: implementamos una herramenta de búsqueda avanzada para acceder a eventos concretos
-MAPAS: GOOGLE MAPS.
-CALENDARIO: GOOGLE CALENDAR.  QUE LOS USUARIOS GESTIONEN SUS EVENTOS DE LA FORMA MÁS CÓMODA POSIBLE :D q chido
-conoce al equipo: apartado de sobre nosotros y contactanos :)
-Continuar leyendo: en la pagina principal ponemos descripciones de los eventos resumidos  y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
-Pagina en mantenimiento y pagina de error: eficaz debido a un problema inesperado en el servidor o en la comunicación.
+**1) Subtitulos de imagen:** créditos fotográficos adecuados o la información de identificación sobre el tema de la imagen breve. útil para conocer mas sobre imagenes de eventos de otras culturas para propoprcionar mas informacion
+
+**2) Barras de búsqueda:** implementamos una herramenta de búsqueda avanzada para acceder a eventos concretos
+
+**3) Mapas:** GOOGLE MAPS.
+
+**4) Calendario:** GOOGLE CALENDAR.  QUE LOS USUARIOS GESTIONEN SUS EVENTOS DE LA FORMA MÁS CÓMODA POSIBLE :D q chido
+
+**5) Conoce al equipo:** apartado de sobre nosotros y contactanos :)
+
+**6) Continuar leyendo:** en la pagina principal ponemos descripciones de los eventos resumidos  y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
+**7) Pagina en mantenimiento y pagina de error:** eficaz debido a un problema inesperado en el servidor o en la comunicación.
 
 
 ## Historia en Video del UX Case Study
