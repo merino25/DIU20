@@ -33,18 +33,19 @@
 
 Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ elegimos decisiones de diseño.
 
-**1) Subtitulos de imagen:** créditos fotográficos adecuados o la información de identificación sobre el tema de la imagen breve. útil para conocer mas sobre imagenes de eventos de otras culturas para propoprcionar mas informacion
+**1) Subtitulos de imagen:** se emplean créditos fotográficos adecuados o la información de identificación sobre el tema de la imagen de forma breve. Queremos usarlo para conocer más sobre imágenes de eventos de otras culturas, para proporcionar más información.
 
-**2) Barras de búsqueda:** implementamos una herramenta de búsqueda avanzada para acceder a eventos concretos
+**2) Barras de búsqueda:** se implementará una herramenta de búsqueda avanzada para acceder a eventos concretos pudiendo filtrar el contenido incluso con el uso de tags o etiquetas.
 
-**3) Mapas:** GOOGLE MAPS.
+**3) Mapas:** proponemos enlazar la Herramienta Google Maps para que el usuario pueda ver la ubicación del evento concreto y la ruta para llegar hasta él. 
 
-**4) Calendario:** GOOGLE CALENDAR.  QUE LOS USUARIOS GESTIONEN SUS EVENTOS DE LA FORMA MÁS CÓMODA POSIBLE :D q chido
+**4) Calendario:** se quiere enlazar la aplicacion de Google Calendar para que los usuarios gestionen las distintas fechas de los eventos que desean ir. :calendar:
 
-**5) Conoce al equipo:** apartado de sobre nosotros y contactanos :)
+**5) Conoce al equipo:** sección de sobre nosotros y contactanos :iphone:
 
-**6) Continuar leyendo:** en la pagina principal ponemos descripciones de los eventos resumidos  y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
-**7) Pagina en mantenimiento y pagina de error:** eficaz debido a un problema inesperado en el servidor o en la comunicación.
+**6) Continuar leyendo:** en la pagina principal denotamos descripciones de los eventos resumidos y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
+
+**7) Pagina en mantenimiento y pagina de error:** mensaje de error debido a un problema inesperado en el servidor o con la comunicación.
 
 
 ## Historia en Video del UX Case Study
