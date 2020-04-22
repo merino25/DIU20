@@ -93,7 +93,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-Nuestro logotipo proviene de la página https://editor.freelogodesign.org/?lang=es&companyname=ultramerino&category=31
+>>> Nuestro logotipo proviene de la página https://editor.freelogodesign.org/?lang=es&companyname=ultramerino&category=31
 
 >>> Como logotipo proponemos ![Logo](img/ultramerinologo1.png) que mezcla varias culturas al igual que nuestra aplicación invitando a la gente a compartir sus culturas.
 
