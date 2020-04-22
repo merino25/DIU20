@@ -87,9 +87,8 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
+>>> Analizamos y comentamos los métodos UX que se han llevado a cabo en MuseMap. En general, las técnicas usadas son buenas e interesantes y las usaríamos para nuestro proyecto.
 
-
->>> Analizar lo aprendido de la experiencia MuseApp
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
