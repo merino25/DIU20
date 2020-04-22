@@ -8,6 +8,8 @@ Proyecto: Experiencias de Compartir Ocio
 Descripción: Proyecto sobre experienis
 
 Logotipo: 
+![Logo](img/logoultramerino.png)
+
 
 Miembros
  * :bust_in_silhouette:   Carlos Luaces Luaces     :octocat:     
