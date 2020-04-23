@@ -49,7 +49,7 @@ Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-a
 
 
 ## Historia en Video del UX Case Study
-
+https://youtu.be/ZADtnPtMGdU
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
