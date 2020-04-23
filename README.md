@@ -95,7 +95,6 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 ![Logo](img/ultramerinoologo2.png) 
 
-y una paleta de colores 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
