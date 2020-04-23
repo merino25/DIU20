@@ -105,7 +105,7 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> Grabamos en un video de YouTube las principales novedades de nuestra herramienta de la práctica de la asignatura. El enlace está en el readme de la P3.
 
 
 ## Paso 4. Evaluación
