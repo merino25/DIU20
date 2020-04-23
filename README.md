@@ -92,13 +92,12 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
->>> Nuestro logotipo proviene de la página https://editor.freelogodesign.org/?lang=es&companyname=ultramerino&category=31
+>>> Nuestro logotipo proviene de la página https://editor.freelogodesign.org/?lang=es&companyname=ocius&category=31
 
->>> Como nuestra aplicación se basa en [Artery](https://www.Artery.is), por tanto nuestro logotipo será:
+>>> Nuestra aplicación se basa en [Artery](https://www.Artery.is), que es un sitio web que tiene como finalidad que la gente cree eventos de ocio y queden entre ellos. Por tanto, poroponemos el logo
 
 ![Logo](img/ultramerinoologo2.png) 
 
-mezcla varias culturas al igual que nuestra aplicación invitando a la gente a compartir sus culturas.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
