@@ -5,7 +5,7 @@ Grupo: DIU1_03UltraMerino.  Curso: 2019/20
 
 Proyecto: Experiencias de Compartir Ocio 
 
-Descripción: Proyecto sobre experienis
+Descripción: Aplicación para fomentar la realización de eventos de ocio entre usuarios.
 
 Logotipo: 
 ![Logo](img/ultramerinologo1.png)
