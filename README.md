@@ -91,15 +91,17 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 ----
 >>> Nuestro logotipo proviene de la página https://editor.freelogodesign.org/?lang=es&companyname=ocius&category=31
 
->>> Nuestra aplicación se basa en [Artery](https://www.Artery.is), que es un sitio web que tiene como finalidad que la gente cree eventos de ocio y queden entre ellos. Por tanto, poroponemos el logo
+>>> Nuestra aplicación se basa en [Artery](https://www.Artery.is), que es un sitio web que tiene como finalidad que la gente cree eventos de ocio y queden entre ellos. Por tanto, poroponemos el logo y la paleta de colores 
 
 ![Logo](img/ultramerinoologo2.png) 
 
-
+y una paleta de colores 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+>>> Proponemos varios elementos de diseños y patrones a usar basándonos en las páginas recomendadas.
+Por ejemplo, algunas de las propuestas son los subtítulos de imágenes, búsqueda avanzada, uso de mapas y calendarios integrados, etc.
+En general son patrones para hacer más cómodo a los usuarios el funcionamiento de la herramienta.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
