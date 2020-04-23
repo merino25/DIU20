@@ -52,4 +52,9 @@ Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-a
 [Nuestro Vídeo](https://youtu.be/ZADtnPtMGdU)    
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+
+Esta práctica ha sido interesante ya que hemos podido analizar otro caso de estudio cuya herramienta es parecida a la nuestra, sacando sus puntos fuertes para que podamos usarlos los demás también.
+
+En el apartado de propuestas de elementos destacamos posibles patrones que a priori pueden parecer obvios o no muy útiles pero que sirven para mejorar nuestra herramienta y hacer más cómoda la navegación a los usuarios de nuestra aplicación.
+
+También ha sido más dinámica que las anteriores, puesto que al realizar el vídeo nos ha permitido sacar los puntos más destacables de la aplicación.
