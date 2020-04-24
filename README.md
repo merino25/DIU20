@@ -84,6 +84,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 ## Paso 3. Mi equipo UX-Case Study
 
+Para acceder a información más detallada de esta 3ª práctica [más información](https://github.com/merino25/DIU20/blob/master/P3/README.md)
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
