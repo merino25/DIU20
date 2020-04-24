@@ -88,7 +88,16 @@ Para acceder a información más detallada de esta 3ª práctica [más informaci
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
->>> Analizamos y comentamos los métodos UX que se han llevado a cabo en [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). En general, las técnicas usadas son buenas e interesantes y las usaríamos para nuestro proyecto.
+>>> Analizamos y comentamos los métodos UX que se han llevado a cabo en [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b).
+
+
+
+
+
+
+
+
+En general, las técnicas usadas son buenas e interesantes y las usaríamos para nuestro proyecto.
 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
