@@ -3,13 +3,15 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_03UltraMerino.  Curso: 2019/20 
 
+![Logo](img/ultramerinologo1.png)
+
 Proyecto: Ocius 
 
 Descripción: Nuestra aplicación para dispositivos móviles fomenta que los usuarios asistan o creen eventos de ocio en sus casas compartiendo así experiencias únicas y conociendo gente nueva.
 
 
 Logotipo: 
-![Logo](img/ultramerinologo1.png)
+![Logo](img/ocius.png) 
 
 
 Miembros
