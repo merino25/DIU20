@@ -1,7 +1,16 @@
 # DIU - Practica 3, entregables
 
-## Análisis de MuseMap   
+## Análisis de MuseMap    
 **Métodos de UX de MuseMap:**
+
+En esta primera sección de la practica vamos a reflexionar la historia de diseño contada en el [enlace](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), el cual nos retoma al sentido por el cual se creó una aplicación llamada Museapp, pasando por explicarnos  y por tanto puede darnos algunas ideas novedosas para añadir a nuestro proyecto. 
+
+
+
+
+
+
+
 
 **1)Investigación de los usuarios:** es importante porque enfocamos hacia qué grupo de personas va dirigido nuestro proyecto y las necesidades de estas personas, algo esencial al comenzar el proyecto.
 
