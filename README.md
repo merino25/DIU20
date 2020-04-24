@@ -94,7 +94,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 >>> Nuestra aplicación se basa en [Artery](https://www.Artery.is), que es un sitio web que tiene como finalidad que los usuarios creen eventos de ocio y queden entre ellos. Por tanto, poroponemos el logo y la paleta de colores 
 
-![Logo](img/ultramerinoologo2.png) 
+![Logo](img/ocius.png) 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
