@@ -7,7 +7,7 @@ Grupo: DIU1_03UltraMerino.  Curso: 2019/20
 
 Proyecto: Ocius 
 
-Descripción: Nuestra aplicación para dispositivos móviles fomenta que los usuarios asistan o creen eventos de ocio en sus casas compartiendo así experiencias únicas y conociendo gente nueva.
+Descripción: Nuestra propuesta está basada en la página [Artery](https://www.Artery.is), será una aplicación Móvil la cual fomente que los usuarios asistan o creen eventos de ocio en sus casas compartiendo así experiencias únicas y conociendo gente nueva.
 
 
 Logotipo: 
@@ -87,7 +87,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
->>> Analizamos y comentamos los métodos UX que se han llevado a cabo en MuseMap. En general, las técnicas usadas son buenas e interesantes y las usaríamos para nuestro proyecto.
+>>> Analizamos y comentamos los métodos UX que se han llevado a cabo en [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). En general, las técnicas usadas son buenas e interesantes y las usaríamos para nuestro proyecto.
 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
