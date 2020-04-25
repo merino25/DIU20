@@ -7,7 +7,7 @@ Grupo: DIU1_03UltraMerino.  Curso: 2019/20
 
 Proyecto: Ocius 
 
-Descripción: Nuestra propuesta está basada en la página [Artery](https://www.Artery.is), será una aplicación Móvil la cual fomente que los usuarios asistan o creen eventos de ocio en sus casas compartiendo así experiencias únicas y conociendo gente nueva.
+Descripción: Nuestra propuesta está basada en la página [Artery](https://www.Artery.is), será una aplicación para dispositivos móviles la cual fomente que los usuarios creen eventos de ocio en sus casas o asistan a eventos en los hogares de los demás compartiendo así experiencias únicas y conociendo gente nueva.
 
 
 Logotipo: 
