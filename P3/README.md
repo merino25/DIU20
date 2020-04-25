@@ -37,15 +37,13 @@ Este método no tiene mucho sentido realizarlo ya que la elaboración que requie
 Sin embargo, obvservamos una cierta similitud entre los 2 personajes los cuales tienen conocimientos medio/altos de tecnología, una edad cercana, una situación similar como el estado civil o los gustos, esto reduce la utilidad de esta técnica.
 
 
-**8) User Journey / Experience Map:** este método
+**8) User Journey / Experience Map:**  este viaje a modo de historia, que realiza un usuario, y encuentra en este caso arte callejero nos pone en situación la cual sería de gran utilidad nuestra aplicación sin embargo echamos en falta otro user journey y experience map en el cual de forma ficticia pueda utilizar nuestra app y podamos ver el progreso y beneficios que consigue Tom. 
 
-Métodos también usados antes que reflejan  a modo de historia el uso de la aplicación por una Persona ficticia.
+El paso siguiente **Escenarios de usuarios (User Scenarios)**. se puede considerar como una amplicación de los user journey y experience map puesto que son situaciones que podria afrontar frecuentemente nuestro usuario. Estos pasos son de utilidad para fundamentar el objetivo de la aplicación. 
 
-**9) Escenarios de usuarios (User Scenarios):** una vez realizada la investigación sobre los usuarios, y ya sabiendo a quién va a ir dirigida la aplicación, vemos las situaciones en las que se podría encontrar frecuentemente nuestro usuario. Es útil para ver todo tipo de problemas que pretendemos solventar.
 
-**10) Planteamiento del problema (Problem Statement):** Detallamos el problema general que queremos resolver y nos planteamos cómo abordarlo.
+**9) Planteamiento del problema (Problem Statement) y Declaración de Hipótesis (Hypothesis Statement):** en este punto definimos un problema concreto, tras esto  desgranamos ese gran problema en adversidades que se nos plantean mas sencillas y mucho más fáciles de resolver y posteriormente las formas de abordarlos. Tras definir ese problema suponemos la hipótesis en la cual hemos solucionado el obstáculo anterior y teorizamos una situación en la cual podemos llegar a nuestro objetivo de una forma mas clara, en definitiva suponemos el éxito del proyecto.
 
-**11) Declaración de hipótesis (Hypothesis Statement):** suponemos que el éxito del proyecto, conlleva a la solución del problema general establecido en el punto anterior. Técnica que parece poco útil.
 
 userr flow??
 
