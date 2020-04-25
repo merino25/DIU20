@@ -45,31 +45,34 @@ El paso siguiente **Escenarios de usuarios (User Scenarios)**. se puede consider
 **9) Planteamiento del problema (Problem Statement) y Declaración de Hipótesis (Hypothesis Statement):** en este punto definimos un problema concreto, tras esto  desgranamos ese gran problema en adversidades que se nos plantean mas sencillas y mucho más fáciles de resolver y posteriormente las formas de abordarlos. Tras definir ese problema suponemos la hipótesis en la cual hemos solucionado el obstáculo anterior y teorizamos una situación en la cual podemos llegar a nuestro objetivo de una forma mas clara, en definitiva suponemos el éxito del proyecto.
 
 
-userr flow??
+**10)Flujo de Usuario (User Flow):** este diagrama, nos permite ver la experiencia real con lujo de detalles viendo como un usuario trata de encontrar una obra de arte pública interesante y va obteniendo los pasos de forma secuencial hasta llegar a la obra y posterior mente se le indica como publicar la foto(s) que se haga con la obra.
 
-**12) Estudio de diseño (Design Studio):** Realización en equipo de distintos bocetos y prototipos mientras avanza el desarrollo del proyecto. Muy útil y relevante para que todos los integrantes conozcan todos los detalles del avance del proyecto.
+**12)Estudio de diseño (Design Studio):** en esta fase se realizacin en equipo distintos bocetos y prototipos de la página de inicio, mapa interactivo e incluso añadiendo logros que convierten la aplicación en un juego y puede provocar conseguir atracción facilitando que la aplicación sea mas reconocida en este caso se utilizaron obras de arte secretas. Además con la función de desbloquear una obra secreta al día podria provocar sujeción a la aplicación y que así la gente se le ocurra acceder con mas frecuencia a la aplicación. 
 
-feature priorisation??
+**13)Priorización de Funciones(Feature Priorization):** en este paso, los alumnos crearon una matriz de 2x2 reflejando las prioridades consiguiendo así evaluar gradualmente lo esencial en relación a la cantidad de esfuerzo que requiere hacerlo así consiguieron ser realistas y así empezar a implementar lo imprescindible.
 
-1st Iteration of Paper Prototype??
+**14) 1ª iteración del prototipo en papel(1st Iteration of Paper Prototype):** es ahora cuando el grupo de estudiantes comenzó a elaborar los primeros prototipos en papel, resaltaron la pagina de inicio la cual mostraría la obra de arte destacada ese dia la cual cambiaría cada vez que el usuario entrase en la aplicación y esbozaron que los usuarios puedan calificar las fotos de obras de otros usuarios.
 
-Usability Testing 1st Round- with Paper Prototype??
+**15)Pruebas de usabilidad 1ª ronda con prototipo en papel (Usability Testing 1st Round- with Paper Prototype):** tras la primera prueba, los alumnos se encontraron con un problema el cual no tenia solución se confundían con la falta de detalles de la página de información, no estaban seguros del sistema de calificación y tampoco entendían el concepto de la obra de arte diaria, lo cual los llevó a preguntarse si a este nivel alguien usaria realmente la aplicación es por ello que los llevó a una 2ª iteración.
 
-2nd Iteration of Paper Prototype??
+**16)2ª iteración del prototipo a papel (2nd Iteration of Paper Prototype):** tras debatir ese callejón sin salida en el que se encontraban les llevó a volver atrás y cambiar las ideas totalmente, ahora sus wireframes se centraron aún mas en el mapa interactivo y en los puntos crítcos recomendando tomar fotos.
 
-Hi-Fi Digital Wireframes ??
+**17)Wireframes de alta fidelidad (Hi-Fi Digital Wireframes):** la creación de estos wireframes muestra con lujo de detalles el uso de la aplicación con el mapa interactivo como página de inicio, el usuario accediendo a un filtrado desde el menú pudiendo tomar fotos y posteriormente guardarlas en galeria y publicarlas en Instagram. Cuando la ubicación del dispositivo coincide con la de alguna obra, se le recomienda al usuario el uso de la camara aunque también puede acceder a información sobre esa obra. Tras **probar una segunda vez la usabilidad con estos wireframes digitales** surgieron los siguientes problemas:
 
-Usability Testing 2nd Round with Hi-Fi Digital Wireframes??
+Los usuarios no esperan filtrar el contenido por palabra clave sino por el tipo de arte.
+Los usuario quieren deslizar hacia arriba y que se abriese un menu de filtros.
+Existe demasiad énfasis en la cámara de navegación superior los usuarios solo querían acceder a la cámara una vez que llegaron al destino y prepararse para la foto.
 
-Site Map??
 
-Style Guide??
+**18) Mapa del Sitio (Site Map):** crearon el mapa del sitio con las maquetas de la aplicación al igual que hicimos en la práctica 2 con la jerarquía pero los alumnos han utilizado maquetas de la aplicación ya funcional. Esta sección permite entender como funciona la aplicación en un vistazo.
 
-Visual Design: Final Mock-ups
+**19)Guía de estilo (Style Guide):** este proceso es muy importante el elegir una fuente o colores de la interfaz de moda o algo mas vintage. Además se indican como van a ser los iconos reflejando así como va a ser la aplicación cuando esté desarrollada.
+
+**20) Diseño visual: maquetas finales (Visual Design: Final Mock-ups):**  estas maquetas,
 
 Next Steps
 
-Conclusión Personal
+**Conclusión Personal** Los alumnos han realizado un gran trabajo, han relatado como han hecho su trabajo al completo de forma sencilla a pesar de tener detras muchas horas de trabajo, se han convertido en unos desarrolladores revisando la usabilidad de su aplicación. En el transcurso de nos ha permitido aprender nuevas técnicas que son de gran ayuda para incorporar en nuestra aplicación.
 
 
 
