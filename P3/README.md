@@ -95,7 +95,7 @@ Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-a
 
 ## Paleta de colores a usar
 
-[paleta](../img/PALETA.png)
+![paleta](../img/PALETA.png)
 
 
 
