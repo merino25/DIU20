@@ -102,7 +102,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 >>> Proponemos varios elementos de diseños y patrones a usar basándonos en las páginas recomendadas como [Smashing Magazine](https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/) o [FontAwesome](https://fontawesome.com/?from=io).
 
-Algunas de las propuestas son los subtítulos de imágenes, búsqueda avanzada, uso de mapas y calendarios integrados, etc.
+>>> Algunas de las propuestas son los subtítulos de imágenes, búsqueda avanzada, uso de mapas y calendarios integrados, etc.
 En general son patrones para hacer más cómodo a los usuarios el funcionamiento de la herramienta.
 
 ![Método UX](img/mockup.png)  3.d Video
@@ -111,7 +111,7 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 >>> Grabamos en un video de YouTube las principales novedades de nuestra herramienta de la práctica de la asignatura. El enlace está en el readme de la P3.
 
 
->>> Se puede encontrar información más detallada de esta 3ª práctica [más información](https://github.com/merino25/DIU20/blob/master/P3/README.md)
+**Se puede encontrar información más detallada de esta 3ª práctica [más información](https://github.com/merino25/DIU20/blob/master/P3/README.md)**
 
 ## Paso 4. Evaluación
 
