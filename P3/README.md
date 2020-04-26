@@ -74,28 +74,37 @@ Existe demasiad énfasis en la cámara de navegación superior los usuarios solo
 **Conclusión Personal** Los alumnos han realizado un gran trabajo, han relatado como lo han hecho al completo de forma compacta a pesar de tener detras muchas horas de trabajo, se han convertido en poco tiempo en unos gran desarrolladores revisando la usabilidad de su aplicación. En el transcurso de nos ha permitido aprender nuevas técnicas que son de gran ayuda para incorporar en nuestra aplicación.
 
 
-
 ## Propuesta de elementos de diseño o patrones a usar 
 
 Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ elegimos decisiones de diseño.
 
-**1) Subtitulos de imagen:** se emplean créditos fotográficos adecuados o la información de identificación sobre el tema de la imagen de forma breve. Queremos usarlo para conocer más sobre imágenes de eventos de otras culturas, para proporcionar más información.
+**1) Subtitulos de imagen:** se emplean créditos fotográficos adecuados o la información de identificación sobre el tema de la imagen de forma breve. Queremos usarlo para conocer más sobre imágenes de eventos de otras culturas, para proporcionar más información. 
 
-**2) Barras de búsqueda:** se implementará una herramenta de búsqueda avanzada para acceder a eventos concretos pudiendo filtrar el contenido incluso con el uso de tags o etiquetas.
+**2) Barras de búsqueda:** se implementará una herramenta de búsqueda avanzada  en la cabecera de la aplicación la cual siempre estará disponible independientemente de donde nos encontremos dentro de la aplicación, para acceder a eventos concretos si introducimos el nombre completo o pudiendo filtrar el contenido  a nuestro gusto, utilizando etiquetas o por categorías.
 
-**3) Mapas:** proponemos enlazar la Herramienta Google Maps para que el usuario pueda ver la ubicación del evento concreto y la ruta para llegar hasta él. 
+**3) Mapas:** uno de los factores que nos permiten marcar la diferencia es poder guiar al usuario desde su ubicación actual hasta la localización exacta del evento. Utilizaremos un Mapa GPS que sea intuitivo, en caso de preferirlo el usuario puede seleccionar la opción de visualizar el trayecto desde su aplicación de Google Maps.
 
-**4) Calendario:** se quiere enlazar la aplicacion de Google Calendar para que los usuarios gestionen las distintas fechas de los eventos que desean ir. :calendar:
+**4) Calendario:** en este apartado vamos a enlazar nuestra herramienta a la aplicacion "Calendario" que tenga predeterminada el usuario, dependerá del Sistema Operativo del dispositivo. Es así como conseguiremos que los usuarios gestionen las entradas en el calendario ¡Y no lleguen tarde a los eventos que no se quieren perder! :calendar:
 
-**5) Conoce al equipo:** sección para contactar con los creadores de la aplicación, además tendrán la posibilidad de ver los perfiles de RRSS del equipo para saber más de nosotros :iphone:
+**5) Conoce al equipo:** en esta sección se podrá contactar con los creadores de la aplicación via Twitter o por un correo electrónico para cada departamento que ha trabajado en el desarrollo de esta aplicación. Además tendrán la posibilidad de ver los perfiles del equipo para saber más de nosotros como la motivación personal que nos llevó a hacer que esta herramienta sea posible. :iphone:
 
 **6) Continuar leyendo:** en la pagina principal denotamos descripciones de los eventos resumidos y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
 
-**7) Pagina en mantenimiento y pagina de error:** mensaje de error debido a un problema inesperado en el servidor o con la comunicación.
+**7) Pagina en mantenimiento y pagina de error:** los mensajes de error es un inconveniente el cual si no especificamos las razones por las cuales nuestra aplicación está fuera de servicio podría provocar que las personas abandonen la aplicación y no nos vuelvan a usar debido a un problema inesperado en el servidor o con la comunicación.
+
+
+## Paleta de colores a usar
+
+[paleta](../img/PALETA.png)
+
+
+
 
 
 ## Historia en Video del UX Case Study
 [Nuestro Vídeo](https://youtu.be/ZADtnPtMGdU)    
+
+
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
