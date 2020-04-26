@@ -111,7 +111,7 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 >>> Grabamos en un video de YouTube las principales novedades de nuestra herramienta de la práctica de la asignatura. El enlace está en el readme de la P3.
 
 
-Se puede encontrar información más detallada de esta 3ª práctica [más información](https://github.com/merino25/DIU20/blob/master/P3/README.md)
+>>> Se puede encontrar información más detallada de esta 3ª práctica [más información](https://github.com/merino25/DIU20/blob/master/P3/README.md)
 
 ## Paso 4. Evaluación
 
