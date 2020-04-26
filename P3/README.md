@@ -98,7 +98,13 @@ Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-a
 ![paleta](../img/PALETA.png)
 
 
+## Tipografía a usar
 
+Proponemos usar la tipografía de Coolvetica:
+
+![tipografia](../img/tipografia.PNG)
+
+Disponible [aqui](https://www.dafont.com/es/coolvetica.font?text=Coolvetica&back=theme)
 
 
 ## Historia en Video del UX Case Study
