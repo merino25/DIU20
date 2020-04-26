@@ -3,7 +3,7 @@
 ## Análisis de MuseMap    
 **Métodos de UX de MuseMap:**
 
-En esta primera sección de la practica vamos a reflexionar la historia de diseño contada en el [enlace](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), el cual nos retoma al objetivo por el cual se creó una aplicación llamada Museapp, pasando por la investigación primaria incluso un análisis de competencias y por tanto puede darnos algunas ideas novedosas para añadir a nuestro proyecto. 
+En esta primera sección de la practica vamos a reflexionar la historia de diseño contada en el [enlace](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), el cual nos retoma al objetivo por el cual se creó una aplicación llamada MuseMap, pasando por la investigación primaria incluso un análisis de competencias y por tanto puede darnos algunas ideas novedosas para añadir a nuestro proyecto. 
 
 
 **1)Investigación de los usuarios (User Research):** este primer paso, permitió a los estudiantes conocer el fundamento de la aplicación puesto que al saber al segmento de la población al que va dirigido y por tanto las necesidades que tiene al ver   en este caso arte público, como invierten su tiempo opinando y compartiendolo.
@@ -66,13 +66,12 @@ Existe demasiad énfasis en la cámara de navegación superior los usuarios solo
 
 **17) Mapa del Sitio (Site Map):** crearon el mapa del sitio con las maquetas de la aplicación al igual que hicimos en la práctica 2 con la jerarquía pero los alumnos han utilizado maquetas de la aplicación ya funcional. Esta sección permite entender como funciona la aplicación en un vistazo.
 
-**18)Guía de estilo (Style Guide):** este proceso es muy importante el elegir una fuente o colores de la interfaz de moda o algo mas vintage. Además se indican como van a ser los iconos reflejando así como va a ser la aplicación cuando esté desarrollada.
+**18)Guía de estilo (Style Guide) y Diseño visual: maquetas finales (Visual Design: Final Mock-ups):** este proceso es muy importante el elegir una fuente o colores de la interfaz de moda o algo mas vintage. Además se indican como van a ser los iconos reflejando así como va a ser la aplicación cuando esté desarrollada. Tras esto los alumnos crearon las maquetas finales, las cuales dejan ver como va a ser la aplicación; tanto el uso del navegador diciendonos la ruta hasta que llegamos al destino, como los mensajes de ayuda para echarse la foto, o los mensajes para publicar la foto en redes sociales. 
 
-**19) Diseño visual: maquetas finales (Visual Design: Final Mock-ups):**  estas maquetas,
 
-Next Steps
+**19)Siguientes pasos (Next Steps):** tras un largo trabajo creando prototipos, los compañeros decidieron debatir sobre sus planes futuros para Muse-Map, como es realizar más pruebas a los usuarios con el prototipo ya creado, la integración de plataformas de RRSS, permitir que los usuarios personalicen un perfil propio pudiendo alimentar con ello la aplicación  y además un sistema para seguir a los demás perfiles pudiendo ver así qué publican o sus obras favoritas.
 
-**Conclusión Personal** Los alumnos han realizado un gran trabajo, han relatado como han hecho su trabajo al completo de forma sencilla a pesar de tener detras muchas horas de trabajo, se han convertido en unos desarrolladores revisando la usabilidad de su aplicación. En el transcurso de nos ha permitido aprender nuevas técnicas que son de gran ayuda para incorporar en nuestra aplicación.
+**Conclusión Personal** Los alumnos han realizado un gran trabajo, han relatado como lo han hecho al completo de forma compacta a pesar de tener detras muchas horas de trabajo, se han convertido en poco tiempo en unos gran desarrolladores revisando la usabilidad de su aplicación. En el transcurso de nos ha permitido aprender nuevas técnicas que son de gran ayuda para incorporar en nuestra aplicación.
 
 
 
@@ -88,7 +87,7 @@ Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-a
 
 **4) Calendario:** se quiere enlazar la aplicacion de Google Calendar para que los usuarios gestionen las distintas fechas de los eventos que desean ir. :calendar:
 
-**5) Conoce al equipo:** sección de sobre nosotros y contactanos :iphone:
+**5) Conoce al equipo:** sección para contactar con los creadores de la aplicación, además tendrán la posibilidad de ver los perfiles de RRSS del equipo para saber más de nosotros :iphone:
 
 **6) Continuar leyendo:** en la pagina principal denotamos descripciones de los eventos resumidos y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
 
