@@ -11,7 +11,7 @@ Descripción: Nuestra propuesta está basada en la página [Artery](https://www.
 
 
 Logotipo: 
-![Logo](img/ocius.png) 
+![Logo](img/ultramerinoologo2.png) 
 
 
 Miembros
@@ -91,12 +91,6 @@ Para acceder a información más detallada de esta 3ª práctica [más informaci
 >>> Analizamos y comentamos los métodos UX que se han llevado a cabo en [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b).
 
 
-
-
-
-
-
-
 En general, las técnicas usadas son buenas e interesantes y las usaríamos para nuestro proyecto.
 
 
@@ -106,7 +100,7 @@ En general, las técnicas usadas son buenas e interesantes y las usaríamos para
 
 >>> Nuestra aplicación se basa en [Artery](https://www.Artery.is), que es un sitio web que tiene como finalidad que los usuarios creen eventos de ocio y queden entre ellos. Por tanto, poroponemos el logo y la paleta de colores 
 
-![Logo](img/ocius.png) 
+![Logo](img/ultramerinoologo2.png) 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
