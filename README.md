@@ -1,6 +1,5 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
-https://github.com/merino25/DIU20/
 
 Grupo: DIU1_03UltraMerino.  Curso: 2019/20 
 
@@ -83,7 +82,7 @@ Hemos elegido Artery frente otros sitios web de la competencia principalmente po
 
 >>> Planteamos tres bocetos de la aplicación: [Pagina principal](img/boceto1.jpg) , [Un Evento](img/boceto2.jpg) y [Ajustes](img/boceto3.jpg)
 
-## Paso 3. Mi equipo UX-Case Study [acceso a nuestra carpeta P3](https://github.com/merino25/DIU20/blob/master/P3/README.md)
+## Paso 3. Mi equipo UX-Case Study
 
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
