@@ -90,7 +90,7 @@ Basandonos en  https://www.smashingmagazine.com/web-design-essentials-examples-a
 
 **6) Continuar leyendo:** en la pagina principal denotamos descripciones de los eventos resumidos y si le interesa a alguien que clique en continuar leyendo y rediriga a  la pagina del evento.
 
-**7) Pagina en mantenimiento y pagina de error:** los mensajes de error es un inconveniente el cual si no especificamos las razones por las cuales nuestra aplicación está fuera de servicio podría provocar que las personas abandonen la aplicación y no nos vuelvan a usar debido a un problema inesperado en el servidor o con la comunicación.
+**7) Pagina en mantenimiento y pagina de error:** los mensajes de error es un inconveniente el cual si no especificamos las razones por las cuales nuestra aplicación está fuera de servicio podría provocar que las personas abandonen la aplicación y no nos vuelvan a usar debido a un problema inesperado en el servidor o con la comunicación. Es por ello vamos a utilizar alrededor de 50 códigos diferentes de error para conocer su origen.
 
 
 ## Paleta de colores a usar
