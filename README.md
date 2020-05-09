@@ -126,11 +126,11 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
 
-DIU1.CEREZA.  [enlace](https://github.com/DavidGmezHdez/DIU20)
+**Caso 1: DIU1.CEREZA**  [enlace](https://github.com/DavidGmezHdez/DIU20)
+El grupo CEREZA pertenenciente al subgrupo DIU1, 
+**Caso 2: DIU2.EscuadrónMapache** [enlace](https://github.com/Galactic-O/DIU20)
 
-DIU2.EscuadrónMapache [enlace](https://github.com/Galactic-O/DIU20)
-
-DIU3.AMRM [enlace](https://github.com/suribel/DIU20)
+**Caso3: DIU3.AMRM** [enlace](https://github.com/suribel/DIU20)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
