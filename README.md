@@ -127,7 +127,9 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
 
 DIU1.CEREZA.  [enlace](https://github.com/DavidGmezHdez/DIU20)
+
 DIU2.EscuadrónMapache [enlace](https://github.com/Galactic-O/DIU20)
+
 DIU3.AMRM [enlace](https://github.com/suribel/DIU20)
 
 
