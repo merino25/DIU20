@@ -7,15 +7,21 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 Descripcion y hoja de valoración.    
 
+En este primer caso evaluamos el grupo CEREZA perteneciente al subgrupo DIU1. (Su [enlace](https://github.com/DavidGmezHdez/DIU20))
+
 
 ## Caso 2
 
 Descripcion y hoja de valoración.  
 
+En este primer caso evaluamos el grupo EscuadrónMapache perteneciente al subgrupo DIU2. (Su [enlace](https://github.com/Galactic-O/DIU20))
+
 
 ## Caso 3
 
 Descripcion y hoja de valoración.   
+
+En este primer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su [enlace](https://github.com/suribel/DIU20))
 
 ## User Testing
 
