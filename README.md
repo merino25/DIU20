@@ -126,8 +126,10 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
 
+En esta 4ª práctica se nos han asignado 3 compañeros de clase, uno de cada subgrupo de prácticas y vamos a evaluar el diseño de los equipos desde la perspectiva de cliente de ese producto pudiendo aportar mejoras o indicando los puntos fuertes y débiles.
+
 **Caso 1: DIU1.CEREZA**  [enlace](https://github.com/DavidGmezHdez/DIU20)
-El grupo CEREZA pertenenciente al subgrupo DIU1, 
+
 **Caso 2: DIU2.EscuadrónMapache** [enlace](https://github.com/Galactic-O/DIU20)
 
 **Caso3: DIU3.AMRM** [enlace](https://github.com/suribel/DIU20)
