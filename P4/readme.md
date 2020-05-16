@@ -28,7 +28,7 @@ Un posible punto flojo es el user task matrix; creemos que la distinción de usu
 
 El vídeo de la práctica tres es perfecto: hace un buen resumen de la práctica resaltando lo más importante con un enfoque promocional para vender su producto.
 
-La puntuación total que ha obtenido el grupo es de 81, bastante bien. Se encuentran más detalles de las puntuaciones de la práctica [aqui](DIU2.ESCUADRONMAPACHE_review.pdf)
+La puntuación total que ha obtenido el grupo es de 81, bastante bien. Se encuentran más detalles de las puntuaciones de la práctica [aquí](DIU2.ESCUADRONMAPACHE_review.pdf).
 
 ## Caso 3
 
