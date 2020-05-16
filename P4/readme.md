@@ -38,12 +38,13 @@ En este tercer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su 
 
 ## User Testing
 
-	Describe la experiencia 1
-
+Elegimos como persona tester a Aurelio, que simulamos que prueba las tres aplicaciones resaltando un posible problema de ellas.
 	
-	Aurelio si usara el chat de la aplicación tendría problemas para verlos y entender lo que le dicen sobre el alquiler, ya que la letra está demasiado chica
+	Si Aurelio usara [] de la aplicación del proyecto del grupo 1 tendría [problema].
+	
+	Si Aurelio usara el chat de la aplicación del proyecto del grupo 2 tendría problemas para verlos y entender lo que le dicen sobre el alquiler, ya que la letra es demasiado chica.
 
-	Describe la experiencia 3
+	Si Aurelio usara [] de la aplicación del proyecto del grupo 3 tendría [problema].
 
 
 ## Conclusiones
