@@ -42,7 +42,7 @@ Elegimos como persona tester a Aurelio, que simulamos que prueba las tres aplica
 	
 	Si Aurelio usara [] de la aplicación del proyecto del grupo 1 tendría [problema].
 	
-	Si Aurelio usara el chat de la aplicación del proyecto del grupo 2 tendría problemas para verlos y entender lo que le dicen sobre el alquiler, ya que la letra es demasiado chica.
+	Si Aurelio usara el chat de la aplicación del proyecto del grupo 2 tendría problemas para verlos y entender lo que le dicen sobre el alquiler, ya que la letra es demasiado chica 
 
 	Si Aurelio usara [] de la aplicación del proyecto del grupo 3 tendría [problema].
 
