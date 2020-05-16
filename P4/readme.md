@@ -20,8 +20,16 @@ Descripcion y hoja de valoración.
 
 En este segundo caso evaluamos el grupo EscuadrónMapache perteneciente al subgrupo DIU2. (Su [enlace](https://github.com/Galactic-O/DIU20))
 
+El proyecto de este subgrupo consiste en una aplicación móvil de alquiler de viviendas. Tiene como principales funcionalidades realizar búsquedas de piso con filtros y un chat de interesados.
 
-Tenemos las puntuaciones [aqui](DIU2.ESCUADRONMAPACHE_review.pdf)
+En general el proyecto está bastante completo. Los aspectos más fuertes son el análisis competitivo, malla receptora y el labelling y los bocetos; están muy detallados y con mucha información relevante.
+
+Un posible punto flojo es el user task matrix; creemos que la distinción de usuarios es pobre y no están ordenadas las tareas por cantidad de uso, aunque hay bastantes.
+
+El vídeo de la práctica tres es perfecto: hace un buen resumen de la práctica resaltando lo más importante con un enfoque promocional para vender su producto.
+
+La puntuación total que ha obtenido el grupo es de 81, bastante bien. Se encuentran más detalles de las puntuaciones de la práctica [aqui](DIU2.ESCUADRONMAPACHE_review.pdf)
+
 ## Caso 3
 
 Descripcion y hoja de valoración.   
@@ -32,7 +40,8 @@ En este tercer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su 
 
 	Describe la experiencia 1
 
-	Describe la experiencia 2
+	
+	Aurelio si usara el chat de la aplicación tendría problemas para verlos y entender lo que le dicen sobre el alquiler, ya que la letra está demasiado chica
 
 	Describe la experiencia 3
 
