@@ -136,7 +136,9 @@ En esta 4ª práctica se nos han asignado 3 compañeros de clase, uno de cada su
 Uno de nuestros personajes ficticios, Inés Moreno, usará las tres aplicaciones y mostraremos tres posibles ideas conflictivas de los proyectos. Las ideas son:
 
 Inés usa el proyecto 1 y ...
+
 Inés usa el proyecto 2 y ...
+
 Inés usa el proyecto 3 y ...
 
 
@@ -146,7 +148,9 @@ Inés usa el proyecto 3 y ...
 Ordenando por puntuación, el ránking de los proyectos es: 
 
 :1st_place_medal: 81 puntos (Caso 2) EscuadrónMapache
+
 :2nd_place_medal: 62 puntos (Caso 3) AMRM
+
 :3rd_place_medal: 56 puntos (Caso 1) CEREZA
 
 Más detalles [aquí](P4/readme.md)
