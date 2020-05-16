@@ -21,7 +21,7 @@ Descripcion y hoja de valoración.
 En este segundo caso evaluamos el grupo EscuadrónMapache perteneciente al subgrupo DIU2. (Su [enlace](https://github.com/Galactic-O/DIU20))
 
 
-Tenemos las puntuaciones [aqui](P4/DIU2.ESCUADRONMAPACHE_review.pdf)
+Tenemos las puntuaciones [aqui](DIU2.ESCUADRONMAPACHE_review.pdf)
 ## Caso 3
 
 Descripcion y hoja de valoración.   
