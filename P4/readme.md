@@ -59,6 +59,9 @@ Descripcion y hoja de valoración.
 
 En este tercer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su [enlace](https://github.com/suribel/DIU20))
 
+Nuestra valoración se encuentra en formato PDF en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU3.AMRM_review.pdf)
+
+Nuestra valoración se encuentra en formato Excel en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU1.CEREZA_review.xls)
 ## User Testing
 
 Elegimos como persona tester a Inés Moreno, que tiene daltonismo, y simulamos que prueba las tres aplicaciones para mostrar la idea de un posible caso conflictivo.
