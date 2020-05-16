@@ -31,6 +31,8 @@ Por otro lado estos son algunos de los aspectos los cuales no han corregido resp
 	
 Nuestra valoración se encuentra en formato PDF en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU1.CEREZA_review.pdf)
 
+Nuestra valoración se encuentra en formato Excel en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU1.CEREZA_review.xls)
+
 La puntuación que han obtenido es de 56, es decir Justo pero no brillante.
 
 
