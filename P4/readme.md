@@ -12,15 +12,15 @@ En este primer caso evaluamos el grupo CEREZA perteneciente al subgrupo DIU1. (S
 Los compañeros en este subgrupo tenían que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un viaje y  han optado por crear una aplicación llamada TripFinder en la cual los usuarios con pocos recursos económicos puedan recorrer el mundo acompañados.
 
 Entre los aspectos positivos que los alumnos proponen de su aplicación encontramos:
-	* Mejor accesibilidad para personas no habituadas con la tecnología como personas mayores.
-	* Realizar menos funciones de pago.
-	* Añaden un chat con el que hablar con otros viajeros.
-	* Compartir multimedia de viajes ya realizados.
+	1. Mejor accesibilidad para personas no habituadas con la tecnología como personas mayores.
+	2. Realizar menos funciones de pago.
+	3. Añaden un chat con el que hablar con otros viajeros.
+	4. Compartir multimedia de viajes ya realizados.
 	
 Por otro lado estos son algunos de los aspectos los cuales no han corregido respecto a la página web que se basaron TripGiraffe:
-	* No proporciona ayuda adecuada según el nivel de experiencia, esta carencia no es corregida en su aplicación, este aspecto puede abrumar al usuario pudiendo provocar que prefiera viajar solo o utilizar otra aplicación de la competencia.
-	* Los mapas de los viajes no tienen un índice claro y bien estructurado, esto puede provocar que el usuario se pierda para encontrar a su acompañante.
-	* Resaltan el problema de que la página nos pide excesiva información secundaria sin embargo no hacen incapié en solucionarlo en su aplicación.
+	1. No proporciona ayuda adecuada según el nivel de experiencia, esta carencia no es corregida en su aplicación, este aspecto puede abrumar al usuario pudiendo provocar que prefiera viajar solo o utilizar otra aplicación de la competencia.
+	2. Los mapas de los viajes no tienen un índice claro y bien estructurado, esto puede provocar que el usuario se pierda para encontrar a su acompañante.
+	3. Resaltan el problema de que la página nos pide excesiva información secundaria sin embargo no hacen incapié en solucionarlo en su aplicación.
 	
 	
 La puntuación que han obtenido es de 56, es decir Justo pero no brillante.
