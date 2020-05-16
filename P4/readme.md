@@ -38,13 +38,13 @@ En este tercer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su 
 
 ## User Testing
 
-Elegimos como persona tester a Inés Moreno, que tiene daltonismo, y simulamos que prueba las tres aplicaciones resaltando un posible problema de ellas.
+Elegimos como persona tester a Inés Moreno, que tiene daltonismo, y simulamos que prueba las tres aplicaciones para mostrar la idea de un posible caso conflictivo.
 	
-	Si Aurelio usara [] de la aplicación del proyecto del grupo 1 tendría [problema].
+	Si Inés usara [] de la aplicación del proyecto del grupo 1 tendría [problema].
 	
 	Si Inés ve la pantalla principal de la aplicación del grupo 2, tendrá problemas al usar las funcionalidades de buscar habitación o publicar anuncio, ya que estos botones están en azul y la paleta de colores es amarilla, siendo Inés daltónica.
 
-	Si Aurelio usara [] de la aplicación del proyecto del grupo 3 tendría [problema].
+	Si Inés usara [] de la aplicación del proyecto del grupo 3 tendría [problema].
 
 
 ## Conclusiones
