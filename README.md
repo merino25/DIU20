@@ -121,11 +121,6 @@ En general son patrones para hacer más cómodo a los usuarios el funcionamiento
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
-
 En esta 4ª práctica se nos han asignado 3 compañeros de clase, uno de cada subgrupo de prácticas y vamos a evaluar el diseño de los equipos desde la perspectiva de cliente de ese producto pudiendo aportar mejoras o indicando los puntos fuertes y débiles.
 
 **Caso 1: DIU1.CEREZA**  [enlace](https://github.com/DavidGmezHdez/DIU20)
@@ -138,15 +133,23 @@ En esta 4ª práctica se nos han asignado 3 compañeros de clase, uno de cada su
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Uno de nuestros personajes ficticios, Inés Moreno, usará las tres aplicaciones y mostraremos tres posibles ideas conflictivas de los proyectos. Las ideas son:
+
+Inés usa el proyecto 1 y ...
+Inés usa el proyecto 2 y ...
+Inés usa el proyecto 3 y ...
 
 
 ![Método UX](img/Survey.png). 4.c Ranking
 ----
 
->>> Concluya con un ranking de los casos evaluados
+Ordenando por puntuación, el ránking de los proyectos es: 
 
->>> Valoración personal
+:1st_place_medal: 81 puntos (Caso 2) EscuadrónMapache
+:2nd_place_medal: 62 puntos (Caso 3) AMRM
+:3rd_place_medal: 56 puntos (Caso 1) CEREZA
+
+Más detalles [aquí](P4/readme.md)
 
 
 ## Paso 5. Evaluación de Accesibilidad  
