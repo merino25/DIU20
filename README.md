@@ -135,11 +135,11 @@ En esta 4ª práctica se nos han asignado 3 compañeros de clase, uno de cada su
 
 Uno de nuestros personajes ficticios, Inés Moreno, usará las tres aplicaciones y mostraremos tres posibles ideas conflictivas de los proyectos. Las ideas son:
 
-Inés usa el proyecto 1 y ...
+Inés en el caso 1 si usara el mapa de la aplicación podría perderse y no llegar a su destino.
 
-Inés usa el proyecto 2 y ...
+Inés en el caso 2 le costaría usar la funcionalidad de buscar habitación ya que confundiría el azul con el amarillo.
 
-Inés usa el proyecto 3 y ...
+Inés en el caso 3 podría no fiarse de un evento por no estar verificado o podría arriesgarse y que sea un chasco.
 
 
 ![Método UX](img/Survey.png). 4.c Ranking
