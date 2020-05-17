@@ -84,9 +84,9 @@ Entre los aspectos positivos que el alumno propone de su aplicación encontramos
 
 Por otro lado estos son algunos de los aspectos los cuales no han corregido respecto a la página web que se basaron Meetup:
 
-1. Entre las críticas constructivas, los perfiles y locales/casas donde se hagan los eventos han de estar verificados para registrarse sin embargo no se propone como idea para diferenciarse de Meetup.
+	1. Entre las críticas constructivas, los perfiles y locales/casas donde se hagan los eventos han de estar verificados para registrarse sin embargo no se propone como idea para diferenciarse de Meetup.
 
-2. La aplicación no ofrece ninguna novedad adicional aparte de la búsqueda avanzada, por lo que es difícil que marque la diferencia y consiga ganar usuarios frente a MeetUp.
+	2. La aplicación no ofrece ninguna novedad adicional aparte de la búsqueda avanzada, por lo que es difícil que marque la diferencia y consiga ganar usuarios frente a MeetUp.
 
 
 Nuestra valoración se encuentra en formato PDF en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU3.AMRM_review.pdf)
