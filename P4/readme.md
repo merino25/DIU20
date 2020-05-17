@@ -9,7 +9,7 @@ Descripcion y hoja de valoración.
 
 En este primer caso evaluamos el grupo CEREZA perteneciente al subgrupo DIU1. (Su [enlace](https://github.com/DavidGmezHdez/DIU20)).
 
-Los compañeros en este subgrupo tenían que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un viaje y  han optado por crear una aplicación llamada TripFinder en la cual los usuarios con pocos recursos económicos puedan recorrer el mundo acompañados.
+Los compañeros en este subgrupo tenían que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un viaje, se han basado en la página [TripGiraffe](https://www.tripgiraffe.com/es/) y  han optado por crear una aplicación llamada TripFinder en la cual los usuarios con pocos recursos económicos puedan recorrer el mundo acompañados.
 
 Entre los aspectos positivos que los alumnos proponen de su aplicación encontramos:
 
@@ -59,6 +59,18 @@ Descripcion y hoja de valoración.
 
 En este tercer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su [enlace](https://github.com/suribel/DIU20))
 
+
+El compañero en este subgrupo  tenía que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un ocio, se ha basado en la página [Meetup](https://www.meetup.com/es-ES/) y  ha optado por crear una aplicación llamada EVEREVENTS  en la cual los usuarios podrán unirse a grupos locales para conocer gente y probar a hacer algo nuevo haciendo lo más lo que les gusta, además podrán crear sus propios eventos, todo de forma gratuita.
+
+Entre los aspectos positivos que el alumno propone de su aplicación encontramos:
+
+1. Buscador avanzado con posibilidad de buscar por etiquetas o por eventos creados por otros usuarios.
+
+2. La aplicación es personalizada, nos sugiere unirnos a eventos similares a otros que ya hayamos asistido
+
+3. Los perfiles han de estar verificados para unirse evitando así que haya bots o cuentas falsas.
+
+Por otro lado estos son algunos de los aspectos los cuales no han corregido respecto a la página web que se basaron Meetup:
 
 
 
