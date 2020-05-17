@@ -9,7 +9,7 @@ Descripcion y hoja de valoración.
 
 En este primer caso evaluamos el grupo CEREZA perteneciente al subgrupo DIU1. (Su [enlace](https://github.com/DavidGmezHdez/DIU20)).
 
-Los compañeros en este subgrupo tenían que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un viaje, se han basado en la página [TripGiraffe](https://www.tripgiraffe.com/es/) y  han optado por crear una aplicación llamada TripFinder en la cual los usuarios con pocos recursos económicos puedan recorrer el mundo acompañados.
+Los compañeros en este subgrupo tenían que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un viaje, se han basado en la página [TRIPGIRAFFE](https://www.tripgiraffe.com/es/) y  han optado por crear una aplicación llamada TRIPFINDER en la cual los usuarios con pocos recursos económicos puedan recorrer el mundo acompañados.
 
 Entre los aspectos positivos que los alumnos proponen de su aplicación encontramos:
 
@@ -43,6 +43,12 @@ Descripcion y hoja de valoración.
 
 En este segundo caso evaluamos el grupo EscuadrónMapache perteneciente al subgrupo DIU2. (Su [enlace](https://github.com/Galactic-O/DIU20))
 
+El compañero en este subgrupo tenía que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un alojamiento, se ha basado en la página [Meetup](https://www.meetup.com/es-ES/) y  ha optado por crear una aplicación llamada YUTAKU  en la cual los usuarios podrán unirse a grupos locales para conocer gente y probar a hacer algo nuevo haciendo lo más lo que les gusta, además podrán crear sus propios eventos, todo de forma gratuita.
+
+Entre los aspectos positivos que el alumno propone de su aplicación encontramos:
+
+
+
 El proyecto de este subgrupo consiste en una aplicación móvil de alquiler de viviendas. Tiene como principales funcionalidades realizar búsquedas de piso con filtros y un chat de interesados.
 
 En general el proyecto está bastante completo. Los aspectos más fuertes son el análisis competitivo, malla receptora y el labelling y los bocetos; están muy detallados y con mucha información relevante.
@@ -51,7 +57,14 @@ Un posible punto flojo es el user task matrix; creemos que la distinción de usu
 
 El vídeo de la práctica tres es perfecto: hace un buen resumen de la práctica resaltando lo más importante con un enfoque promocional para vender su producto.
 
-La puntuación total que ha obtenido el grupo es de 81, bastante bien. Se encuentran más detalles de las puntuaciones de la práctica [aquí](DIU2.ESCUADRONMAPACHE_review.pdf).
+
+
+Nuestra valoración se encuentra en formato PDF en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU2.ESCUADRONMAPACHE_review.pdf)
+
+Nuestra valoración se encuentra en formato Excel en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU2.ESCUADRONMAPACHE_review.xls)
+
+La puntuación total que han obtenido es de 81, es decir Justo pero no brillante.
+
 
 ## Caso 3
 
@@ -68,15 +81,17 @@ Entre los aspectos positivos que el alumno propone de su aplicación encontramos
 
 2. La aplicación es personalizada, nos sugiere unirnos a eventos similares a otros que ya hayamos asistido
 
-3. Los perfiles han de estar verificados para unirse evitando así que haya bots o cuentas falsas.
 
 Por otro lado estos son algunos de los aspectos los cuales no han corregido respecto a la página web que se basaron Meetup:
 
+1. Entre las críticas constructivas, los perfiles y locales/casas donde se hagan los eventos han de estar verificados para registrarse sin embargo no se propone como idea para diferenciarse de Meetup.
+
+2. La aplicación no ofrece ninguna novedad adicional aparte de la búsqueda avanzada, por lo que es difícil que marque la diferencia y consiga ganar usuarios frente a MeetUp.
 
 
 Nuestra valoración se encuentra en formato PDF en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU3.AMRM_review.pdf)
 
-Nuestra valoración se encuentra en formato Excel en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU1.CEREZA_review.xls)
+Nuestra valoración se encuentra en formato Excel en: [enlace](https://github.com/merino25/DIU20/blob/master/P4/DIU3.AMRM_review.xls)
 
 La puntuación que han obtenido es de 62, es decir Justo pero no brillante.
 
