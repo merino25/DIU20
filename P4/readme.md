@@ -76,7 +76,7 @@ Descripcion y hoja de valoración.
 En este tercer caso evaluamos el grupo AMRM perteneciente al subgrupo DIU3. (Su [enlace](https://github.com/suribel/DIU20))
 
 
-El compañero en este subgrupo  tenía que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un ocio, se ha basado en la página [Meetup](https://www.meetup.com/es-ES/) y  ha optado por crear una aplicación llamada EVEREVENTS  en la cual los usuarios podrán unirse a grupos locales para conocer gente y probar a hacer algo nuevo haciendo lo más lo que les gusta, además podrán crear sus propios eventos, todo de forma gratuita.
+El compañero en este subgrupo tenía que diseñar una aplicación de economía colaborativa relacionada con una experiencia de compartir un ocio, se ha basado en la página [Meetup](https://www.meetup.com/es-ES/) y  ha optado por crear una aplicación llamada EVEREVENTS  en la cual los usuarios podrán unirse a grupos locales para conocer gente y probar a hacer algo nuevo haciendo lo más lo que les gusta, además podrán crear sus propios eventos, todo de forma gratuita.
 
 Entre los aspectos positivos que el alumno propone de su aplicación encontramos:
 
@@ -100,13 +100,30 @@ La puntuación que han obtenido es de 62, es decir Justo pero no brillante.
 
 ## User Testing
 
-Elegimos como persona tester a Inés Moreno, que tiene daltonismo, y simulamos que prueba las tres aplicaciones para mostrar la idea de un posible caso conflictivo.
-	
-	Si Inés usara [] de la aplicación del proyecto del grupo 1 tendría [problema].
-	
-	Si Inés ve la pantalla principal de la aplicación del grupo 2, tendrá problemas al usar las funcionalidades de buscar habitación o publicar anuncio, ya que estos botones están en azul y la paleta de colores es amarilla, siendo Inés daltónica.
+La persona ficticia la cual evaluará los proyectos de nuestros compañeros será  Inés Moreno, que tiene daltonismo, y simulamos que prueba las tres aplicaciones para mostrar la idea de un posible caso conflictivo.
 
-	Si Inés usara [] de la aplicación del proyecto del grupo 3 tendría [problema].
+Para conocer más sobre Inés se puede encontrar [aquí](https://github.com/merino25/DIU20/blob/master/P1/persona_ines.png)
+	
+	
+**USER TESTING GRUPO 1 CEREZA: APLICACIÓN TRIPFINDER**
+
+Inés si conociese esta aplicación le podría dar uso para conocer mundo, cuando termine el periodo de docencia, en caso de querer viajar y no tener acompañante podrá dar uso encontrando al compañero perfecto. Además esta aplicación está orientada para personas con pocos recursos económicos y Inés se encuentra justo en esta situación.
+
+Si Inés utilizara la aplicación, en caso de no concer el camino hacia el destino y dependiera del mapa de la aplicación, podría perderse puesto que no se ha mejorado la estructura del índice del mapa interactivo.
+
+Otro problema que podría tener Inés al empezar con la aplicación es que la aplicación no ofrece ayudas adecuadas según su experiencia pudiendo no ser intuitiva y agobiarla.
+
+**USER TESTING GRUPO 2 EscuadrónMapache: APLICACIÓN YUTAKU**
+
+La aplicación YUTAKU es perfecta para la situación actual en la que se encuentra nuestro personaje Inés, puesto que está buscando cambiar de piso ya que su situación con sus compañeros de piso no es muy favorable, le permitiría no solo cambiar las personas con las que vive sino conseguir una habitación mejor ubicada cerca de alguna piscina para poder practicar su deporte, la natación.
+
+En caso de que Inés utilice la aplicación como es daltónica podría tener problemas puesto que la paleta de colores principal tiene el color amarillo y algunos botones como buscar habitación o publicar anuncio tienen el fondo en azul. Además entre los colores secundarios está en negro y algunas tonalidades de gris claro, podría provocar problemas con el contraste bajo e impidiendo que pudiera leer la fuente de algunas funcionalidades de la aplicación.
+	
+**USER TESTING GRUPO 3 AMRM: APLICACIÓN EVEREVENTS**
+
+La situación actual de Inés podría favorecer que quiera conocer gente nueva utilizando la aplicación EVEREVENTS, la cual le permite salir de la rutina y compartir experiencias de ocio conociendo gente nueva. La aplicación al ser personalizada, le irá sugiriendo experiencias que realizan sus amigos y con el tiempo recomendarle eventos parecidos que le podrían interesar. 
+
+Si Inés utilizara la aplicación, al no requerir verificación para dar garantías podrían engañarla empleando perfiles falsos llegando a pasar situaciones inesperadas, o simplemente que la ubicación del evento no sea acorde con la descripción.
 
 
 ## Conclusiones
