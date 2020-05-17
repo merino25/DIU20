@@ -110,3 +110,5 @@ Elegimos como persona tester a Inés Moreno, que tiene daltonismo, y simulamos q
 
 
 ## Conclusiones
+
+Los 3 grupos en general cumplen con la espectativa, a pesar de en ocasiones encontrarnos con desorden, teniendo más contenido en el master principal que en la propia práctica o la falta de contenido esencial como el nombre del equipo o alguna de las personas ficticias. Los videos de los 3 equipos tienen un gran trabajo de edición de video sin embargo algunos no han sabido enfocarlo para su uso promocional, simplemente empleándolo como recopilatorio de las prácticas realizadas con anterioridad.
